@@ -1,0 +1,25 @@
+{
+  "name": "poke-catcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roccomaniscalco/poke-catcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roccomaniscalco/poke-catcher/issues"
+  },
+  "homepage": "https://github.com/roccomaniscalco/poke-catcher#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "prettier": "^2.3.2"
+  }
+}
