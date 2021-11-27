@@ -1,7 +1,6 @@
 import puppeteer from "puppeteer";
-import saveImgUrlToPath from "./saveImgUrlToPath.js";
-
-const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+import saveImgUrlToPath from "./util/saveImgUrlToPath.js";
+import delay from "./util/delay.js";
 
 export async function getPokemonName(imageUrl) {
   // save image pokemon image url to path
