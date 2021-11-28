@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+
 import saveImgUrlToPath from "./util/saveImgUrlToPath.js";
 import delay from "./util/delay.js";
 
@@ -6,7 +7,7 @@ export async function getPokemonName(imageUrl) {
   // save image pokemon image url to path
   await saveImgUrlToPath(imageUrl, "./pokemon.jpg");
 
-  // launch browser and open lens search tab
+  // launch browser and open image search tab
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto("https://lens.google.com/search?p");

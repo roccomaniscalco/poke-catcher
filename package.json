@@ -1,19 +1,18 @@
 {
   "name": "poke-catcher",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automated Pokétwo farming",
   "main": "pokeCatcher.js",
   "type": "module",
   "scripts": {
-    "start": "node src/pokeCatcher"
+    "start": "node src/observer"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roccomaniscalco/poke-catcher.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "rm",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/roccomaniscalco/poke-catcher/issues"
   },
@@ -22,6 +21,7 @@
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "node-fetch": "^3.1.0",
-    "puppeteer": "^11.0.0"
+    "puppeteer": "^11.0.0",
+    "robotjs": "^0.6.0"
   }
 }
