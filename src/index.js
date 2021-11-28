@@ -1,8 +1,8 @@
 import { Client } from "discord.js";
 import dotenv from "dotenv";
 
-import trainer from "./trainer.js";
-import { getPokemonName } from "./pokedex.js";
+import trainer from "./userBot.js";
+import { getPokemonName } from "./imageSearch.js";
 
 // parse environment variables
 dotenv.config();
@@ -11,7 +11,7 @@ dotenv.config();
 const pokeCatcher = new Client();
 
 pokeCatcher.on("ready", async () => {
-  console.log("\x1b[32m", "• PokéCatcher Active •", "\x1b[0m");
+  console.log("\x1b[32m", "PokéCatcher Active", "\x1b[0m");
 });
 
 pokeCatcher.on("message", async (message) => {
@@ -22,7 +22,7 @@ pokeCatcher.on("message", async (message) => {
       trainer.stopSearch();
       const pokemonImageUrl = message.embeds[0].image.url;
       const pokemonName = await getPokemonName(pokemonImageUrl);
-      console.log("\x1b[2m", `> pokémon detected: ${pokemonName}`, "\x1b[0m");
+      console.log("\x1b[2m", `• pokémon determined: ${pokemonName}`, "\x1b[0m");
       trainer.catchPokemon(pokemonName);
       trainer.startSearch();
     }
