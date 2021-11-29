@@ -1,8 +1,8 @@
 import { Client } from "discord.js";
 import dotenv from "dotenv";
 
-import trainer from "./userBot.js";
-import { getPokemonName } from "./imageSearch.js";
+import user from "./userBot.js";
+import getPokemonName from "./imageSearch.js";
 
 // parse environment variables
 dotenv.config();
@@ -14,22 +14,26 @@ pokeCatcher.on("ready", async () => {
   console.log("\x1b[32m", "PokéCatcher Active", "\x1b[0m");
 });
 
+let isGettingPokemonName = false;
 pokeCatcher.on("message", async (message) => {
   // is a Pokétwo message
   if (message.author.username === "Pokétwo") {
     // is a wild pokémon
     if (message.embeds[0]?.title.includes("pokémon has appeared!")) {
-      trainer.stopSearch();
+      isGettingPokemonName = true;
       const pokemonImageUrl = message.embeds[0].image.url;
       const pokemonName = await getPokemonName(pokemonImageUrl);
-      console.log("\x1b[2m", `• pokémon determined: ${pokemonName}`, "\x1b[0m");
-      trainer.catchPokemon(pokemonName);
-      trainer.startSearch();
+      user.catchPokemon(pokemonName);
+      isGettingPokemonName = false;
+      user.spamMessage();
     }
-  } else if (message.content === "c!start") {
-    trainer.startSearch();
-  } else if (message.content === "ping") {
-    message.channel.send("pong");
+  }
+
+  // is a user message
+  else if (message.author.id === process.env.USER_ID) {
+    if (message.content == "spam" && !isGettingPokemonName) {
+      user.spamMessage();
+    }
   }
 });
 

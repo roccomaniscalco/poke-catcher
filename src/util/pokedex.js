@@ -897,4 +897,6 @@ export const pokedex = [
   "glastrier",
   "spectrier",
   "calyrex",
+  // manually added pokémon
+  "soporifik",
 ];

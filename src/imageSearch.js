@@ -20,7 +20,9 @@ const scrapeSearchResults = async (page) => {
   // scrape exact match
   try {
     return await page.$eval(".Cy3un", (el) => el.innerText);
-  } catch (e) { console.log("\x1b[2m", "• exact match not found", "\x1b[0m",) }
+  } catch (e) {
+    console.log("\x1b[2m", "• exact match not found", "\x1b[0m");
+  }
 
   // scrape similar images
   try {
@@ -37,10 +39,12 @@ const scrapeSearchResults = async (page) => {
       );
       if (pokemonName) return pokemonName;
     }
-  } catch (e) { console.log("\x1b[2m", "• similar images not found", "\x1b[0m") }
+  } catch (e) {
+    console.log("\x1b[2m", "• similar images not found", "\x1b[0m");
+  }
 };
 
-export async function getPokemonName(imageUrl) {
+const getPokemonName = async (imageUrl) => {
   // launch browser and open image search
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
@@ -58,6 +62,10 @@ export async function getPokemonName(imageUrl) {
   const pokemonName = await scrapeSearchResults(page);
   browser.close;
 
-  if (pokemonName) return pokemonName;
-  else throw Error("Failed to scrape pokémon name");
-}
+  if (pokemonName) {
+    console.log("\x1b[2m", `• pokémon determined: ${pokemonName}`, "\x1b[0m");
+    return pokemonName;
+  } else throw Error("Failed to scrape pokémon name");
+};
+
+export default getPokemonName;

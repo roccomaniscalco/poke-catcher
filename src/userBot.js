@@ -1,29 +1,17 @@
 import robot from "robotjs";
+import debounce from "./util/debounce.js";
 
-const clearLine = () => {
-  robot.keyToggle("command", "down");
-  robot.keyTap("backspace");
-  robot.keyToggle("command", "up");
-};
-
-// start search pokémon search (spamming text) interval
-let spamInterval;
-const startSearch = () => {
-  spamInterval = setInterval(() => {
-    robot.typeString("searching for pokémon...");
-    robot.keyTap("enter");
-  }, 2000);
-};
-
-// stop spam interval
-const stopSearch = () => clearInterval(spamInterval);
+// type spam message
+const spamMessage = debounce(() => {
+  robot.typeString("spam");
+  robot.keyTap("enter");
+}, 1000);
 
 // type catch command
-const catchPokemon = (pokemonName) => {
-  clearLine();
+const catchPokemon = async (pokemonName) => {
   robot.typeString(`p!catch ${pokemonName}`);
   robot.keyTap("enter");
 };
 
-const trainer = { startSearch, stopSearch, catchPokemon };
-export default trainer;
+const user = { catchPokemon, spamMessage };
+export default user;
