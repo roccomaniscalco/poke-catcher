@@ -1,45 +1,13 @@
 import { Client } from "discord.js";
 import dotenv from "dotenv";
-
-import user from "./userBot.js";
-import determinePokemon from "./util/determinePokemon.js";
-import unescape from "./util/unescape.js";
-
-const handleWildPokemon = (title) => {
-  if (title.includes("fled"))
-    console.log(
-      "\x1b[31m",
-      title.replace(". A new wild pokémon has appeared!", ""),
-      "\x1b[0m"
-    );
-
-  user.askForHint();
-};
-
-const handleHint = ({ content }) => {
-  const hint = unescape(content.substring(15, content.length - 1));
-  const pokemonArr = determinePokemon(hint);
-  pokemonArr.forEach((pokemon) => user.catchPokemon(pokemon));
-
-  console.log(
-    "\x1b[2m",
-    `• pokémon determined: ${pokemonArr.toString()}`,
-    "\x1b[0m"
-  );
-};
-
-const handleCaughtPokemon = ({ content }) => {
-  const pokemon = content.split(" ")[7].slice(0, -1);
-  console.log("\x1b[32m", `Success: ${pokemon} was caught!`, "\x1b[0m");
-};
-
-const handleWrongPokemon = () => {
-  console.log("\x1b[2m", "• attempt to catch failed", "\x1b[0m");
-};
-
-const handlePokedex = ({ embeds }) => {
-  console.log(embeds[0]);
-};
+import {
+  handleCaughtPokemon,
+  handleHint,
+  handlePokedex,
+  handleSpam,
+  handleWildPokemon,
+  handleWrongPokemon,
+} from "./handlers";
 
 // parse environment variables
 dotenv.config();
@@ -73,7 +41,7 @@ pokeCatcher.on("message", async (message) => {
   else if (message.author.id === process.env.USER_ID) {
     // is a "spam" message
     if (message.content == "spam") {
-      user.spam();
+      handleSpam();
     }
   }
 });
