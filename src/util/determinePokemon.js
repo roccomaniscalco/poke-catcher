@@ -1,4 +1,4 @@
-import { pokedex } from "./pokedex.js";
+import pokedex from "./pokedex.js";
 
 const determinePokemon = (hint) => {
   for (const pokemon of pokedex) {

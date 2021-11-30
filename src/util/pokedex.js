@@ -1,4 +1,4 @@
-export const pokedex = [
+const pokedex = [
   "bulbasaur",
   "ivysaur",
   "venusaur",
@@ -897,6 +897,6 @@ export const pokedex = [
   "glastrier",
   "spectrier",
   "calyrex",
-  // manually added pokémon
-  "soporifik",
 ];
+
+export default pokedex;

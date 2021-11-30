@@ -2,7 +2,7 @@ import { Client } from "discord.js";
 import dotenv from "dotenv";
 
 import user from "./userBot.js";
-import getPokemonName from "./imageSearch.js";
+import getPokemonName from "../deprecated/imageSearch.js";
 
 // PokéCatcher state
 const state = {
