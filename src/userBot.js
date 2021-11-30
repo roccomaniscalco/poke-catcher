@@ -1,11 +1,10 @@
 import robot from "robotjs";
-import debounce from "./util/debounce.js";
 
 // type spam message
-const spamMessage = debounce(() => {
+const spamMessage = () => {
   robot.typeString("spam");
   robot.keyTap("enter");
-}, 1000);
+};
 
 // type catch command
 const catchPokemon = async (pokemonName) => {
