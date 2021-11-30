@@ -39,6 +39,7 @@ const scrapeSearchResults = async (page) => {
       );
       if (pokemonName) return pokemonName;
     }
+    return "\x1b[2m", "• similar images not found", "\x1b[0m";
   } catch (e) {
     console.log("\x1b[2m", "• similar images not found", "\x1b[0m");
   }
@@ -65,7 +66,12 @@ const getPokemonName = async (imageUrl) => {
   if (pokemonName) {
     console.log("\x1b[2m", `• pokémon determined: ${pokemonName}`, "\x1b[0m");
     return pokemonName;
-  } else throw Error("Failed to scrape pokémon name");
+  } else
+    console.log(
+      "\x1b[31m",
+      `Failure: Unable to determine pokémon!`,
+      "\x1b[0m"
+    );
 };
 
 export default getPokemonName;
