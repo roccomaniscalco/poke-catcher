@@ -7,7 +7,7 @@ import {
   handleSpam,
   handleWildPokemon,
   handleWrongPokemon,
-} from "./handlers";
+} from "./handlers.js";
 
 // parse environment variables
 dotenv.config();
@@ -25,7 +25,7 @@ pokeCatcher.on("message", async (message) => {
     console.log(message);
     // is a wild pokémon
     if (message.embeds[0]?.title?.includes("pokémon has appeared!")) {
-      handleWildPokemon(message);
+      handleWildPokemon(message.embeds[0].title);
     } else if (message.content.includes("The pokémon is")) {
       handleHint(message);
     } else if (message.content.includes("You caught a level")) {
