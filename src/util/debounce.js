@@ -1,4 +1,4 @@
-const debounce = (func, wait) => {
+const debounce = (func, delay) => {
   let timeout;
 
   return function executedFunction(...args) {
@@ -8,7 +8,7 @@ const debounce = (func, wait) => {
     };
 
     clearTimeout(timeout);
-    timeout = setTimeout(later, wait);
+    timeout = setTimeout(later, delay);
   };
 };
 

@@ -3,10 +3,9 @@ import dotenv from "dotenv";
 import {
   handleCaughtPokemon,
   handleHint,
-  handlePokedex,
+  handleReady,
   handleSpam,
   handleWildPokemon,
-  handleWrongPokemon,
 } from "./handlers.js";
 
 // parse environment variables
@@ -16,30 +15,23 @@ dotenv.config();
 const pokeCatcher = new Client();
 
 pokeCatcher.on("ready", async () => {
-  console.log("\x1b[32m", "PokéCatcher Active", "\x1b[0m");
+  handleReady();
 });
 
 pokeCatcher.on("message", async (message) => {
   // is a Pokétwo message
   if (message.author.username === "Pokétwo") {
-    console.log(message);
-    // is a wild pokémon
     if (message.embeds[0]?.title?.includes("pokémon has appeared!")) {
       handleWildPokemon(message.embeds[0].title);
     } else if (message.content.includes("The pokémon is")) {
-      handleHint(message);
+      handleHint(message.content);
     } else if (message.content.includes("You caught a level")) {
-      handleCaughtPokemon(message);
-    } else if (message.content == "That is the wrong pokémon!") {
-      handleWrongPokemon();
-    } else if (message.embeds[0]?.title == "Your pokédex") {
-      handlePokedex(message);
+      handleCaughtPokemon(message.content);
     }
   }
 
   // is a user message
   else if (message.author.id === process.env.USER_ID) {
-    // is a "spam" message
     if (message.content == "spam") {
       handleSpam();
     }

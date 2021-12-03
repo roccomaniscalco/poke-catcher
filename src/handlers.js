@@ -1,43 +1,30 @@
+import log from "./util/log.js";
 import user from "./userBot.js";
-import determinePokemon from "./util/determinePokemon.js";
-import unescape from "./util/unescape.js";
+import { determinePokemon } from "./pokedex/Pokedex.js";
 
-export function handleWildPokemon(title) {
-  if (title.includes("fled"))
-    console.log(
-      "\x1b[31m",
-      title.replace(". A new wild pokémon has appeared!", ""),
-      "\x1b[0m"
-    );
+export const handleReady = () => {
+  log.success("PokéCatcher Active");
+};
 
+export const handleWildPokemon = (title) => {
   user.askForHint();
+  if (title.includes("fled"))
+    log.error(title.replace(". A new wild pokémon has appeared", ""));
 }
 
-export function handleHint({ content }) {
-  const hint = unescape(content.substring(15, content.length - 1));
-  const pokemonArr = determinePokemon(hint);
-  pokemonArr.forEach((pokemon) => user.catchPokemon(pokemon));
+export const handleHint = (content) => {
+  const hint = content.substring(15, content.length - 1).replace(/\\/g, "");
+  determinePokemon(hint).forEach((pokemon) => user.catchPokemon(pokemon));
 
-  console.log(
-    "\x1b[2m",
-    `• pokémon determined: ${pokemonArr.toString()}`,
-    "\x1b[0m"
-  );
+  log.info(`• [${pokemonArr.length}] pokémon determined`);
+  if (pokemonArr.length > 0) log.info(`• ${pokemonArr.toString()}`);
 }
 
-export function handleCaughtPokemon({ content }) {
+export const handleCaughtPokemon = (content) => {
   const pokemon = content.split(" ")[7].slice(0, -1);
-  console.log("\x1b[32m", `Success: ${pokemon} was caught!`, "\x1b[0m");
+  log.success(`${pokemon} was caught!`);
 }
 
-export function handleWrongPokemon() {
-  console.log("\x1b[2m", "• attempt to catch failed", "\x1b[0m");
-}
-
-export function handlePokedex({ embeds }) {
-  console.log(embeds[0]);
-}
-
-export function handleSpam() {
+export const handleSpam = () => {
   user.spam();
 }

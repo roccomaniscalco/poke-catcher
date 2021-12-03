@@ -16,5 +16,5 @@ const askForHint = () => {
   robot.keyTap("enter");
 };
 
-const user = { catchPokemon, spam, askForHint };
+const user = { spam, catchPokemon, askForHint };
 export default user;
