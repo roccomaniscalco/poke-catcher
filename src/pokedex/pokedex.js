@@ -1,7 +1,10 @@
 import fs from "fs";
+import log from "../util/log.js";
+
+const POKEDEX_PATH = "./src/pokedex/pokedex.json";
 
 const readPokedex = () => {
-  return JSON.parse(fs.readFileSync("./src/pokedex/pokedex.json", "utf-8"));
+  return JSON.parse(fs.readFileSync(POKEDEX_PATH, "utf-8"));
 };
 
 const pokemonMatchesHint = (pokemon, hint) => {
@@ -10,10 +13,11 @@ const pokemonMatchesHint = (pokemon, hint) => {
 };
 
 const addPokemon = (pokemon) => {
-  fs.writeFileSync(
-    "./src/pokedex/pokedex.json",
-    JSON.stringify([...readPokedex(), pokemon])
-  );
+  const pokedex = readPokedex();
+  if (pokedex.includes(pokemon)) return;
+
+  fs.writeFileSync(POKEDEX_PATH, JSON.stringify([...pokedex, pokemon]));
+  log.info(`• added ${pokemon} to pokédex`);
 };
 
 const determinePokemon = (hint) => {
@@ -22,4 +26,3 @@ const determinePokemon = (hint) => {
 
 const pokedex = { addPokemon, determinePokemon };
 export default pokedex;
-

@@ -9,7 +9,6 @@ const handleFledPokemon = (title) => {
   pokedex.addPokemon(pokemon);
 
   log.error(`Wild ${pokemon} fled!`);
-  log.info(`• added ${pokemon} to pokédex`);
 };
 
 export const handleReady = () => {
@@ -22,7 +21,7 @@ export const handleWildPokemon = (title) => {
 };
 
 export const handleHint = (content) => {
-  const hint = content.substring(15, content.length - 1).replace(/\\/g, "");
+  const hint = content.slice(15, content.length - 1).replace(/\\/g, "");
   const pokemonArr = pokedex.determinePokemon(hint);
   pokemonArr.forEach((pokemon) => user.catchPokemon(pokemon));
 
@@ -31,8 +30,8 @@ export const handleHint = (content) => {
 };
 
 export const handleCaughtPokemon = (content) => {
-  const pokemon = content.split(" ")[7].slice(0, -1);
-  log.success(`${pokemon} was caught!`);
+  const levelPokemon = content.match(/(?<=level )(.*?)(?=\!)/)[1]
+  log.success(`Level ${levelPokemon} was caught!`);
 };
 
 export const handleSpam = () => {
