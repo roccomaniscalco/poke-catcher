@@ -1,5 +1,5 @@
 import robot from "robotjs";
-import debounce from "./util/debounce.js";
+import debounce from "../util/debounce.js";
 
 const spam = debounce(() => {
   robot.typeString("spam");

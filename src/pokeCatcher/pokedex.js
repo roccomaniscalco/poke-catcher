@@ -1,7 +1,7 @@
 import fs from "fs";
 import log from "../util/log.js";
 
-const POKEDEX_PATH = "./src/pokedex/pokedex.json";
+const POKEDEX_PATH = "./database/pokedex.json";
 
 const readPokedex = () => {
   return JSON.parse(fs.readFileSync(POKEDEX_PATH, "utf-8"));

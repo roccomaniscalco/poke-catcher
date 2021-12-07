@@ -1,14 +1,14 @@
-import log from "./util/log.js";
+import log from "../util/log.js";
 import user from "./userBot.js";
-import pokedex from "./pokedex/pokedex.js";
+import pokedex from "./pokedex.js";
 
 const handleFledPokemon = (title) => {
   const pokemon = title
     .replace("Wild ", "")
     .replace(" fled. A new wild pokémon has appeared!", "");
-  pokedex.addPokemon(pokemon);
 
   log.error(`Wild ${pokemon} fled!`);
+  pokedex.addPokemon(pokemon);
 };
 
 export const handleReady = () => {
@@ -25,12 +25,15 @@ export const handleHint = (content) => {
   const pokemonArr = pokedex.determinePokemon(hint);
   pokemonArr.forEach((pokemon) => user.catchPokemon(pokemon));
 
-  log.info(`• [${pokemonArr.length}] pokémon determined`);
-  if (pokemonArr.length > 0) log.info(`• ${pokemonArr.toString()}`);
+  log.info(
+    `• [${pokemonArr.length}] pokémon determined${
+      pokemonArr.length > 0 && `: ${pokemonArr.join(", ")}`
+    }`
+  );
 };
 
 export const handleCaughtPokemon = (content) => {
-  const levelPokemon = content.match(/(?<=level )(.*?)(?=\!)/)[1]
+  const levelPokemon = content.match(/(?<=level )(.*?)(?=\!)/)[1];
   log.success(`Level ${levelPokemon} was caught!`);
 };
 
