@@ -5,6 +5,7 @@ import {
   handleHint,
   handleReady,
   handleSpam,
+  handleStop,
   handleWildPokemon,
 } from "./handlers.js";
 
@@ -32,8 +33,10 @@ pokeCatcher.on("message", async (message) => {
 
   // is a user message
   else if (message.author.id === process.env.USER_ID) {
-    if (message.content == "spam") {
+    if (message.content === "spam") {
       handleSpam();
+    } else if (message.content === "stop") {
+      handleStop();
     }
   }
 });

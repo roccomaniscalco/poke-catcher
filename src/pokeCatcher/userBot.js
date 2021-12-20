@@ -6,6 +6,10 @@ const spam = debounce(() => {
   robot.keyTap("enter");
 }, 1000);
 
+const stop = () => {
+  robot.typeString("stop ");
+};
+
 const catchPokemon = (pokemonName) => {
   robot.typeString(`p!catch ${pokemonName}`);
   robot.keyTap("enter");
@@ -16,5 +20,5 @@ const askForHint = () => {
   robot.keyTap("enter");
 };
 
-const user = { spam, catchPokemon, askForHint };
+const user = { spam, stop, catchPokemon, askForHint };
 export default user;

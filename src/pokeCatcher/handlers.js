@@ -40,3 +40,7 @@ export const handleCaughtPokemon = (content) => {
 export const handleSpam = () => {
   user.spam();
 };
+
+export const handleStop = () => {
+  user.stop();
+};
