@@ -5,7 +5,8 @@
   "main": "pokeCatcher.js",
   "type": "module",
   "scripts": {
-    "catch": "node src/pokeCatcher/index"
+    "catch": "node src/pokeCatcher/index",
+    "release": "node src/pokeReleaser/index"
   },
   "repository": {
     "type": "git",
