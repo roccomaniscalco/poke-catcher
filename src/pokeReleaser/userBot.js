@@ -6,13 +6,18 @@ const viewPokemon = debounce((pageNumber) => {
   robot.keyTap("enter");
 }, 5000);
 
-const confirmRelease = debounce(() => {
-  robot.keyToggle("up", "down");
+const releasePokemon = debounce((pokemonIdsToRelease) => {
+  robot.typeString(`p!release ${pokemonIdsToRelease.join(" ")}`);
+  robot.keyTap("enter");
+}, 3000);
+
+const confirmRelease = () => {
+  robot.keyTap("up");
   for (let i = 0; i < 6; i++) {
     robot.keyTap("tab");
   }
-  robot.keyTap("enter")
-}, 5000);
+  robot.keyTap("enter");
+};
 
-const user = { viewPokemon, confirmRelease };
+const user = { viewPokemon, releasePokemon, confirmRelease };
 export default user;

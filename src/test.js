@@ -1,3 +1,6 @@
-import user from "./pokeReleaser/userBot.js";
+import myPokemon from "./pokeReleaser/myPokemon.js";
 
-user.confirmRelease()
+const pokemonToRelease = myPokemon.getPokemonToRelease();
+
+const idsToRelease = pokemonToRelease.map(({ id }) => id);
+console.log(idsToRelease.join(" "));

@@ -19,6 +19,7 @@
   { "id": 23, "name": "Eelektross", "level": 43, "iv": 70.97 },
   { "id": 24, "name": "Pidove", "level": 13, "iv": 50.54 },
   { "id": 25, "name": "Gible", "level": 12, "iv": 55.91 },
+
   { "id": 26, "name": "Stunky", "level": 25, "iv": 62.37 },
   { "id": 27, "name": "Unfezant", "level": 27, "iv": 36.02 },
   { "id": 28, "name": "Brionne", "level": 30, "iv": 31.72 },
@@ -39,6 +40,7 @@
   { "id": 43, "name": "Magmar", "level": 25, "iv": 35.48 },
   { "id": 44, "name": "Duskull", "level": 22, "iv": 56.99 },
   { "id": 45, "name": "Bronzor", "level": 16, "iv": 62.9 },
+
   { "id": 46, "name": "Wurmple", "level": 21, "iv": 25.27 },
   { "id": 47, "name": "Seedot", "level": 22, "iv": 41.4 },
   { "id": 48, "name": "Tyrogue", "level": 26, "iv": 53.76 },
@@ -59,6 +61,7 @@
   { "id": 63, "name": "Bagon", "level": 26, "iv": 51.61 },
   { "id": 64, "name": "Druddigon", "level": 10, "iv": 58.6 },
   { "id": 65, "name": "Nickit", "level": 17, "iv": 56.99 },
+
   { "id": 66, "name": "Scyther", "level": 23, "iv": 53.76 },
   { "id": 67, "name": "Roselia", "level": 5, "iv": 42.47 },
   { "id": 68, "name": "Bouffalant", "level": 12, "iv": 70.97 },
@@ -79,6 +82,7 @@
   { "id": 83, "name": "Hatenna", "level": 26, "iv": 61.83 },
   { "id": 84, "name": "Flabébé", "level": 24, "iv": 47.31 },
   { "id": 85, "name": "Gothita", "level": 22, "iv": 51.61 },
+
   { "id": 86, "name": "Koffing", "level": 2, "iv": 45.7 },
   { "id": 87, "name": "Emolga", "level": 19, "iv": 69.35 },
   { "id": 88, "name": "Koffing", "level": 16, "iv": 47.85 },
@@ -99,6 +103,7 @@
   { "id": 103, "name": "Thwackey", "level": 8, "iv": 30.11 },
   { "id": 104, "name": "Rookidee", "level": 17, "iv": 55.91 },
   { "id": 105, "name": "Duskull", "level": 27, "iv": 65.05 },
+
   { "id": 106, "name": "Axew", "level": 27, "iv": 47.85 },
   { "id": 107, "name": "Metang", "level": 30, "iv": 73.12 },
   { "id": 108, "name": "Stunky", "level": 2, "iv": 53.23 },
@@ -119,6 +124,7 @@
   { "id": 123, "name": "Swinub", "level": 23, "iv": 63.98 },
   { "id": 124, "name": "Toxtricity", "level": 30, "iv": 34.95 },
   { "id": 125, "name": "Sceptile", "level": 26, "iv": 68.28 },
+
   { "id": 126, "name": "Ledyba", "level": 33, "iv": 29.03 },
   { "id": 127, "name": "Porygon", "level": 16, "iv": 34.41 },
   { "id": 128, "name": "Seedot", "level": 31, "iv": 40.32 },
@@ -139,6 +145,7 @@
   { "id": 143, "name": "Oddish", "level": 12, "iv": 42.47 },
   { "id": 144, "name": "Greninja", "level": 3, "iv": 50 },
   { "id": 145, "name": "Scraggy", "level": 25, "iv": 48.39 },
+
   { "id": 146, "name": "Mareanie", "level": 13, "iv": 64.52 },
   { "id": 147, "name": "Yamask", "level": 17, "iv": 56.45 },
   { "id": 148, "name": "Aron", "level": 12, "iv": 67.2 },
@@ -159,6 +166,7 @@
   { "id": 163, "name": "Mareep", "level": 18, "iv": 33.87 },
   { "id": 164, "name": "Poochyena", "level": 19, "iv": 59.14 },
   { "id": 165, "name": "Quagsire", "level": 19, "iv": 48.92 },
+
   { "id": 166, "name": "Graveler", "level": 1, "iv": 33.33 },
   { "id": 167, "name": "Krokorok", "level": 7, "iv": 43.01 },
   { "id": 168, "name": "Larvitar", "level": 15, "iv": 71.51 },
@@ -179,6 +187,7 @@
   { "id": 183, "name": "Roggenrola", "level": 19, "iv": 38.17 },
   { "id": 184, "name": "Pidgeotto", "level": 23, "iv": 54.84 },
   { "id": 185, "name": "Bewear", "level": 22, "iv": 43.01 },
+
   { "id": 186, "name": "Frillish", "level": 17, "iv": 52.69 },
   { "id": 187, "name": "Nidoran♀️", "level": 3, "iv": 43.55 },
   { "id": 188, "name": "Hitmontop", "level": 35, "iv": 47.31 },
@@ -199,6 +208,7 @@
   { "id": 203, "name": "Piplup", "level": 26, "iv": 45.7 },
   { "id": 204, "name": "Flabébé", "level": 23, "iv": 45.7 },
   { "id": 205, "name": "Tympole", "level": 39, "iv": 57.53 },
+
   { "id": 206, "name": "Pidgey", "level": 30, "iv": 34.41 },
   { "id": 207, "name": "Staryu", "level": 21, "iv": 50 },
   { "id": 208, "name": "Joltik", "level": 33, "iv": 55.38 },
@@ -219,6 +229,7 @@
   { "id": 223, "name": "Flapple", "level": 10, "iv": 52.15 },
   { "id": 224, "name": "Spoink", "level": 33, "iv": 53.23 },
   { "id": 225, "name": "Sandile", "level": 31, "iv": 65.59 },
+
   { "id": 226, "name": "Impidimp", "level": 1, "iv": 70.43 },
   { "id": 227, "name": "Magneton", "level": 23, "iv": 43.55 },
   { "id": 228, "name": "Shuppet", "level": 34, "iv": 53.23 },
@@ -239,6 +250,7 @@
   { "id": 243, "name": "Azumarill", "level": 26, "iv": 34.95 },
   { "id": 244, "name": "Deino", "level": 30, "iv": 58.06 },
   { "id": 245, "name": "Gastly", "level": 6, "iv": 44.09 },
+
   { "id": 246, "name": "Slakoth", "level": 19, "iv": 59.68 },
   { "id": 247, "name": "Geodude", "level": 11, "iv": 63.98 },
   { "id": 248, "name": "Treecko", "level": 34, "iv": 45.7 },
@@ -259,6 +271,7 @@
   { "id": 263, "name": "Persian", "level": 28, "iv": 49.46 },
   { "id": 264, "name": "Sandile", "level": 10, "iv": 51.61 },
   { "id": 265, "name": "Sewaddle", "level": 31, "iv": 36.02 },
+
   { "id": 266, "name": "Nidorina", "level": 38, "iv": 52.15 },
   { "id": 267, "name": "Togepi", "level": 15, "iv": 53.76 },
   { "id": 268, "name": "Beautifly", "level": 19, "iv": 61.83 },
@@ -279,6 +292,7 @@
   { "id": 283, "name": "Frogadier", "level": 39, "iv": 50.54 },
   { "id": 284, "name": "Toxapex", "level": 16, "iv": 47.31 },
   { "id": 285, "name": "Arbok", "level": 6, "iv": 61.83 },
+
   { "id": 286, "name": "Bellsprout", "level": 23, "iv": 59.68 },
   { "id": 287, "name": "Drifloon", "level": 13, "iv": 72.04 },
   { "id": 288, "name": "Fennekin", "level": 27, "iv": 41.94 },
@@ -299,13 +313,14 @@
   { "id": 303, "name": "Vulpix", "level": 40, "iv": 68.28 },
   { "id": 304, "name": "Centiskorch", "level": 34, "iv": 46.77 },
   { "id": 305, "name": "Bayleef", "level": 15, "iv": 43.01 },
+
   { "id": 306, "name": "Spheal", "level": 22, "iv": 66.67 },
   { "id": 307, "name": "Jangmo-o", "level": 25, "iv": 27.96 },
   { "id": 308, "name": "Kricketot", "level": 13, "iv": 50 },
   { "id": 309, "name": "Whismur", "level": 20, "iv": 51.61 },
   { "id": 310, "name": "Ekans", "level": 10, "iv": 47.85 },
   { "id": 311, "name": "Clobbopus", "level": 21, "iv": 32.26 },
-  { "id": 312, "name": "ivysaur", "level": 38, "iv": 67.2 },
+  { "id": 312, "name": "Ivysaur", "level": 38, "iv": 67.2 },
   { "id": 313, "name": "Murkrow", "level": 26, "iv": 64.52 },
   { "id": 314, "name": "Spheal", "level": 31, "iv": 69.89 },
   { "id": 315, "name": "Panpour", "level": 19, "iv": 60.22 },
@@ -319,6 +334,7 @@
   { "id": 323, "name": "Gothita", "level": 12, "iv": 60.75 },
   { "id": 324, "name": "Panpour", "level": 7, "iv": 40.32 },
   { "id": 325, "name": "Phanpy", "level": 14, "iv": 72.04 },
+
   { "id": 326, "name": "Chewtle", "level": 22, "iv": 58.06 },
   { "id": 327, "name": "Dreepy", "level": 26, "iv": 53.23 },
   { "id": 328, "name": "Bellsprout", "level": 36, "iv": 44.62 },
@@ -339,6 +355,7 @@
   { "id": 343, "name": "Gulpin", "level": 19, "iv": 59.68 },
   { "id": 344, "name": "Nickit", "level": 25, "iv": 47.85 },
   { "id": 345, "name": "Swinub", "level": 20, "iv": 40.86 },
+
   { "id": 346, "name": "Piloswine", "level": 26, "iv": 63.44 },
   { "id": 347, "name": "Lombre", "level": 11, "iv": 46.77 },
   { "id": 348, "name": "Klefki", "level": 44, "iv": 71.51 },
@@ -359,6 +376,7 @@
   { "id": 363, "name": "Klink", "level": 21, "iv": 45.16 },
   { "id": 364, "name": "Venipede", "level": 24, "iv": 48.39 },
   { "id": 365, "name": "Mudkip", "level": 8, "iv": 48.39 },
+
   { "id": 366, "name": "Goomy", "level": 29, "iv": 48.92 },
   { "id": 367, "name": "Blitzle", "level": 31, "iv": 53.76 },
   { "id": 368, "name": "Yanma", "level": 27, "iv": 33.87 },
@@ -379,6 +397,7 @@
   { "id": 383, "name": "Dreepy", "level": 16, "iv": 52.69 },
   { "id": 384, "name": "Nidoran♂️", "level": 33, "iv": 54.84 },
   { "id": 385, "name": "Palpitoad", "level": 39, "iv": 40.32 },
+
   { "id": 386, "name": "Zigzagoon", "level": 30, "iv": 27.42 },
   { "id": 387, "name": "Shinx", "level": 25, "iv": 55.91 },
   { "id": 388, "name": "Drilbur", "level": 8, "iv": 40.86 },
@@ -399,6 +418,7 @@
   { "id": 403, "name": "Snorunt", "level": 15, "iv": 50 },
   { "id": 404, "name": "Litleo", "level": 10, "iv": 70.97 },
   { "id": 405, "name": "Nidorino", "level": 9, "iv": 51.61 },
+
   { "id": 406, "name": "Morpeko", "level": 15, "iv": 55.38 },
   { "id": 407, "name": "Sandile", "level": 37, "iv": 35.48 },
   { "id": 408, "name": "Grovyle", "level": 2, "iv": 53.23 },
@@ -419,6 +439,7 @@
   { "id": 423, "name": "Grimer", "level": 29, "iv": 47.31 },
   { "id": 424, "name": "Weedle", "level": 28, "iv": 44.62 },
   { "id": 425, "name": "Nidorino", "level": 15, "iv": 31.18 },
+
   { "id": 426, "name": "Gastly", "level": 8, "iv": 48.39 },
   { "id": 427, "name": "Spearow", "level": 13, "iv": 39.78 },
   { "id": 428, "name": "Aipom", "level": 16, "iv": 41.4 },
@@ -439,6 +460,7 @@
   { "id": 443, "name": "Ferrothorn", "level": 28, "iv": 53.23 },
   { "id": 444, "name": "Seviper", "level": 16, "iv": 54.3 },
   { "id": 445, "name": "Woobat", "level": 14, "iv": 53.76 },
+
   { "id": 446, "name": "Kadabra", "level": 10, "iv": 68.28 },
   { "id": 447, "name": "Aron", "level": 26, "iv": 52.69 },
   { "id": 448, "name": "Dreepy", "level": 27, "iv": 53.76 },
@@ -459,6 +481,7 @@
   { "id": 463, "name": "Sneasel", "level": 25, "iv": 43.01 },
   { "id": 464, "name": "Flaaffy", "level": 25, "iv": 61.29 },
   { "id": 465, "name": "Gible", "level": 22, "iv": 58.6 },
+
   { "id": 466, "name": "Cutiefly", "level": 4, "iv": 39.25 },
   { "id": 467, "name": "Gothita", "level": 19, "iv": 61.29 },
   { "id": 468, "name": "Roggenrola", "level": 21, "iv": 51.61 },
@@ -479,6 +502,7 @@
   { "id": 483, "name": "Froslass", "level": 9, "iv": 42.47 },
   { "id": 484, "name": "Heliolisk", "level": 12, "iv": 74.73 },
   { "id": 485, "name": "Nidoran♂️", "level": 27, "iv": 50.54 },
+
   { "id": 486, "name": "Fletchling", "level": 24, "iv": 74.19 },
   { "id": 487, "name": "Gothorita", "level": 1, "iv": 43.01 },
   { "id": 488, "name": "Nidoran♀️", "level": 21, "iv": 37.1 },
@@ -499,6 +523,7 @@
   { "id": 503, "name": "Geodude", "level": 20, "iv": 22.04 },
   { "id": 504, "name": "Blipbug", "level": 24, "iv": 40.32 },
   { "id": 505, "name": "Pidgey", "level": 14, "iv": 46.24 },
+
   { "id": 506, "name": "Beldum", "level": 17, "iv": 61.29 },
   { "id": 507, "name": "Gothita", "level": 20, "iv": 55.91 },
   { "id": 508, "name": "Haunter", "level": 23, "iv": 59.14 },
@@ -519,6 +544,7 @@
   { "id": 523, "name": "Miltank", "level": 24, "iv": 61.29 },
   { "id": 524, "name": "Solosis", "level": 25, "iv": 23.12 },
   { "id": 525, "name": "Dreepy", "level": 24, "iv": 48.92 },
+
   { "id": 526, "name": "Lotad", "level": 28, "iv": 47.31 },
   { "id": 527, "name": "Marshtomp", "level": 20, "iv": 50 },
   { "id": 528, "name": "Honedge", "level": 16, "iv": 43.01 },
@@ -539,6 +565,7 @@
   { "id": 543, "name": "Mudbray", "level": 13, "iv": 32.8 },
   { "id": 544, "name": "Aerodactyl", "level": 23, "iv": 61.83 },
   { "id": 545, "name": "Pidove", "level": 10, "iv": 27.96 },
+
   { "id": 546, "name": "Rolycoly", "level": 1, "iv": 56.45 },
   { "id": 547, "name": "Trubbish", "level": 22, "iv": 70.43 },
   { "id": 548, "name": "Pawniard", "level": 14, "iv": 54.3 },
@@ -559,6 +586,7 @@
   { "id": 563, "name": "Stufful", "level": 27, "iv": 54.3 },
   { "id": 564, "name": "Goldeen", "level": 21, "iv": 59.14 },
   { "id": 565, "name": "Fletchling", "level": 38, "iv": 65.05 },
+
   { "id": 566, "name": "Caterpie", "level": 25, "iv": 61.29 },
   { "id": 567, "name": "Geodude", "level": 12, "iv": 29.57 },
   { "id": 568, "name": "Krookodile", "level": 14, "iv": 52.15 },
@@ -579,6 +607,7 @@
   { "id": 583, "name": "Drifloon", "level": 27, "iv": 40.86 },
   { "id": 584, "name": "Monferno", "level": 18, "iv": 71.51 },
   { "id": 585, "name": "Sandile", "level": 4, "iv": 36.56 },
+
   { "id": 586, "name": "Dragonite", "level": 7, "iv": 58.06 },
   { "id": 587, "name": "Seedot", "level": 21, "iv": 60.75 },
   { "id": 588, "name": "Lileep", "level": 19, "iv": 43.01 },
@@ -599,6 +628,7 @@
   { "id": 603, "name": "Cradily", "level": 15, "iv": 41.94 },
   { "id": 604, "name": "Koffing", "level": 22, "iv": 66.67 },
   { "id": 605, "name": "Drifloon", "level": 29, "iv": 56.99 },
+
   { "id": 606, "name": "Bastiodon", "level": 33, "iv": 44.09 },
   { "id": 607, "name": "Sewaddle", "level": 33, "iv": 63.44 },
   { "id": 608, "name": "Absol", "level": 16, "iv": 56.45 },
@@ -619,6 +649,7 @@
   { "id": 623, "name": "Fletchling", "level": 35, "iv": 79.03 },
   { "id": 624, "name": "Wurmple", "level": 8, "iv": 55.38 },
   { "id": 625, "name": "Anorith", "level": 21, "iv": 51.61 },
+
   { "id": 626, "name": "Lileep", "level": 12, "iv": 31.72 },
   { "id": 627, "name": "Dewott", "level": 26, "iv": 56.45 },
   { "id": 628, "name": "Pikipek", "level": 23, "iv": 30.11 },
@@ -639,6 +670,7 @@
   { "id": 643, "name": "Spinarak", "level": 17, "iv": 45.16 },
   { "id": 644, "name": "Abomasnow", "level": 16, "iv": 49.46 },
   { "id": 645, "name": "Gastly", "level": 20, "iv": 16.67 },
+
   { "id": 646, "name": "Skitty", "level": 23, "iv": 32.8 },
   { "id": 647, "name": "Clobbopus", "level": 6, "iv": 48.39 },
   { "id": 648, "name": "Duskull", "level": 14, "iv": 63.44 },
@@ -659,6 +691,7 @@
   { "id": 663, "name": "Caterpie", "level": 1, "iv": 56.99 },
   { "id": 664, "name": "Machop", "level": 19, "iv": 56.99 },
   { "id": 665, "name": "Impidimp", "level": 23, "iv": 48.39 },
+
   { "id": 666, "name": "Voltorb", "level": 35, "iv": 62.9 },
   { "id": 667, "name": "Spritzee", "level": 30, "iv": 50 },
   { "id": 668, "name": "Impidimp", "level": 9, "iv": 53.23 },
@@ -679,6 +712,7 @@
   { "id": 683, "name": "Beldum", "level": 22, "iv": 55.91 },
   { "id": 684, "name": "Leafeon", "level": 1, "iv": 76.34 },
   { "id": 685, "name": "Weedle", "level": 14, "iv": 53.76 },
+
   { "id": 686, "name": "Mareep", "level": 24, "iv": 76.88 },
   { "id": 687, "name": "Emboar", "level": 37, "iv": 53.76 },
   { "id": 688, "name": "Pumpkaboo", "level": 13, "iv": 55.38 },
@@ -699,6 +733,7 @@
   { "id": 703, "name": "Snivy", "level": 4, "iv": 70.43 },
   { "id": 704, "name": "Nuzleaf", "level": 14, "iv": 60.75 },
   { "id": 705, "name": "Onix", "level": 16, "iv": 70.97 },
+
   { "id": 706, "name": "Lotad", "level": 11, "iv": 71.51 },
   { "id": 707, "name": "Grovyle", "level": 30, "iv": 41.4 },
   { "id": 708, "name": "Misdreavus", "level": 12, "iv": 33.87 },
@@ -719,6 +754,7 @@
   { "id": 723, "name": "Swinub", "level": 7, "iv": 64.52 },
   { "id": 724, "name": "Bellsprout", "level": 1, "iv": 55.38 },
   { "id": 725, "name": "Mudbray", "level": 1, "iv": 53.76 },
+
   { "id": 726, "name": "Squirtle", "level": 13, "iv": 46.77 },
   { "id": 727, "name": "Nidoran♂️", "level": 42, "iv": 38.17 },
   { "id": 728, "name": "Palpitoad", "level": 1, "iv": 53.23 },
@@ -739,6 +775,7 @@
   { "id": 743, "name": "Ralts", "level": 22, "iv": 35.48 },
   { "id": 744, "name": "Eelektrik", "level": 22, "iv": 53.76 },
   { "id": 745, "name": "Klink", "level": 15, "iv": 50.54 },
+
   { "id": 746, "name": "Yanma", "level": 27, "iv": 69.35 },
   { "id": 747, "name": "Pidgeotto", "level": 24, "iv": 40.32 },
   { "id": 748, "name": "Roggenrola", "level": 22, "iv": 47.85 },
@@ -759,6 +796,7 @@
   { "id": 763, "name": "Victreebel", "level": 9, "iv": 68.28 },
   { "id": 764, "name": "Natu", "level": 32, "iv": 33.87 },
   { "id": 765, "name": "Anorith", "level": 36, "iv": 48.92 },
+
   { "id": 766, "name": "Frillish", "level": 16, "iv": 27.96 },
   { "id": 767, "name": "Gible", "level": 26, "iv": 64.52 },
   { "id": 768, "name": "Lillipup", "level": 35, "iv": 53.76 },
@@ -779,6 +817,7 @@
   { "id": 783, "name": "Omanyte", "level": 20, "iv": 70.97 },
   { "id": 784, "name": "Piloswine", "level": 36, "iv": 45.16 },
   { "id": 785, "name": "Weezing", "level": 19, "iv": 43.55 },
+
   { "id": 786, "name": "Nincada", "level": 20, "iv": 54.3 },
   { "id": 787, "name": "Aerodactyl", "level": 34, "iv": 39.25 },
   { "id": 788, "name": "Krokorok", "level": 31, "iv": 51.61 },
@@ -799,6 +838,7 @@
   { "id": 803, "name": "Golett", "level": 9, "iv": 57.53 },
   { "id": 804, "name": "Vanillite", "level": 18, "iv": 43.55 },
   { "id": 805, "name": "Numel", "level": 25, "iv": 28.49 },
+
   { "id": 806, "name": "Frogadier", "level": 15, "iv": 63.44 },
   { "id": 807, "name": "Beldum", "level": 7, "iv": 59.68 },
   { "id": 808, "name": "Cyndaquil", "level": 1, "iv": 43.01 },
@@ -819,6 +859,7 @@
   { "id": 823, "name": "Woobat", "level": 17, "iv": 55.38 },
   { "id": 824, "name": "Sandile", "level": 1, "iv": 47.31 },
   { "id": 825, "name": "Blitzle", "level": 25, "iv": 38.71 },
+
   { "id": 826, "name": "Braixen", "level": 18, "iv": 65.59 },
   { "id": 827, "name": "Venipede", "level": 9, "iv": 43.55 },
   { "id": 828, "name": "Impidimp", "level": 17, "iv": 62.9 },
@@ -839,6 +880,7 @@
   { "id": 843, "name": "Lotad", "level": 23, "iv": 39.25 },
   { "id": 844, "name": "Machop", "level": 1, "iv": 30.65 },
   { "id": 845, "name": "Abra", "level": 27, "iv": 72.04 },
+
   { "id": 846, "name": "Porygon2", "level": 27, "iv": 75.81 },
   { "id": 847, "name": "Axew", "level": 21, "iv": 64.52 },
   { "id": 848, "name": "Hatenna", "level": 11, "iv": 48.92 },
@@ -859,6 +901,7 @@
   { "id": 863, "name": "Meditite", "level": 28, "iv": 43.01 },
   { "id": 864, "name": "Sandile", "level": 19, "iv": 71.51 },
   { "id": 865, "name": "Timburr", "level": 30, "iv": 54.3 },
+
   { "id": 866, "name": "Togekiss", "level": 15, "iv": 56.45 },
   { "id": 867, "name": "Ferroseed", "level": 28, "iv": 41.4 },
   { "id": 868, "name": "Watchog", "level": 23, "iv": 60.22 },
@@ -879,6 +922,7 @@
   { "id": 883, "name": "Vibrava", "level": 24, "iv": 29.57 },
   { "id": 884, "name": "Abra", "level": 18, "iv": 51.08 },
   { "id": 885, "name": "Golett", "level": 13, "iv": 67.2 },
+
   { "id": 886, "name": "Dreepy", "level": 3, "iv": 44.09 },
   { "id": 887, "name": "Caterpie", "level": 24, "iv": 68.28 },
   { "id": 888, "name": "Lotad", "level": 4, "iv": 63.44 },
@@ -899,13 +943,14 @@
   { "id": 903, "name": "Hatenna", "level": 26, "iv": 62.9 },
   { "id": 904, "name": "Voltorb", "level": 24, "iv": 33.87 },
   { "id": 905, "name": "Lycanroc", "level": 25, "iv": 47.31 },
+
   { "id": 906, "name": "Drowzee", "level": 21, "iv": 71.51 },
   { "id": 907, "name": "Sinistea", "level": 18, "iv": 39.78 },
   { "id": 908, "name": "Pikipek", "level": 31, "iv": 60.75 },
   { "id": 909, "name": "Espeon", "level": 14, "iv": 41.94 },
   { "id": 910, "name": "Charmeleon ❤️", "level": 14, "iv": 66.67 },
   { "id": 911, "name": "Toucannon", "level": 29, "iv": 48.39 },
-  { "id": 912, "name": "ivysaur", "level": 19, "iv": 60.22 },
+  { "id": 912, "name": "Ivysaur", "level": 19, "iv": 60.22 },
   { "id": 913, "name": "Pidove", "level": 9, "iv": 55.38 },
   { "id": 914, "name": "Deino", "level": 32, "iv": 46.77 },
   { "id": 915, "name": "Grookey", "level": 6, "iv": 44.62 },
@@ -919,6 +964,7 @@
   { "id": 923, "name": "Makuhita", "level": 37, "iv": 39.78 },
   { "id": 924, "name": "Shedinja", "level": 28, "iv": 50.54 },
   { "id": 925, "name": "Tangela", "level": 19, "iv": 50 },
+
   { "id": 926, "name": "Dustox", "level": 2, "iv": 48.92 },
   { "id": 927, "name": "Volcarona", "level": 20, "iv": 50 },
   { "id": 928, "name": "Cranidos", "level": 25, "iv": 58.06 },
@@ -939,6 +985,7 @@
   { "id": 943, "name": "Fennekin", "level": 29, "iv": 45.7 },
   { "id": 944, "name": "Impidimp", "level": 15, "iv": 39.25 },
   { "id": 945, "name": "Nosepass", "level": 26, "iv": 41.4 },
+
   { "id": 946, "name": "Rillaboom", "level": 21, "iv": 65.05 },
   { "id": 947, "name": "Grovyle", "level": 33, "iv": 55.91 },
   { "id": 948, "name": "Drakloak", "level": 13, "iv": 61.29 },
@@ -959,6 +1006,7 @@
   { "id": 963, "name": "Clamperl", "level": 30, "iv": 73.12 },
   { "id": 964, "name": "Litwick", "level": 35, "iv": 65.59 },
   { "id": 965, "name": "Dreepy", "level": 10, "iv": 58.6 },
+
   { "id": 966, "name": "Rattata", "level": 37, "iv": 68.82 },
   { "id": 967, "name": "Weedle", "level": 24, "iv": 31.18 },
   { "id": 968, "name": "Kricketune", "level": 43, "iv": 36.56 },
@@ -979,6 +1027,7 @@
   { "id": 983, "name": "Rhyhorn", "level": 23, "iv": 53.23 },
   { "id": 984, "name": "Crawdaunt", "level": 28, "iv": 58.06 },
   { "id": 985, "name": "Bounsweet", "level": 22, "iv": 37.63 },
+
   { "id": 986, "name": "Musharna", "level": 14, "iv": 47.85 },
   { "id": 987, "name": "Ralts", "level": 6, "iv": 42.47 },
   { "id": 988, "name": "Ralts", "level": 7, "iv": 58.06 },
@@ -999,6 +1048,7 @@
   { "id": 1003, "name": "Eevee", "level": 15, "iv": 52.15 },
   { "id": 1004, "name": "Seedot", "level": 20, "iv": 45.7 },
   { "id": 1005, "name": "Trapinch", "level": 21, "iv": 61.29 },
+
   { "id": 1006, "name": "Pidove", "level": 31, "iv": 60.22 },
   { "id": 1007, "name": "Grubbin", "level": 22, "iv": 56.45 },
   { "id": 1008, "name": "Weedle", "level": 7, "iv": 74.73 },
@@ -1019,6 +1069,7 @@
   { "id": 1023, "name": "Shelgon", "level": 7, "iv": 54.84 },
   { "id": 1024, "name": "Machop", "level": 8, "iv": 53.23 },
   { "id": 1025, "name": "Bounsweet", "level": 40, "iv": 41.4 },
+
   { "id": 1026, "name": "Bastiodon", "level": 29, "iv": 49.46 },
   { "id": 1027, "name": "Eelektrik", "level": 24, "iv": 39.78 },
   { "id": 1028, "name": "Gothita", "level": 27, "iv": 53.76 },
@@ -1039,6 +1090,7 @@
   { "id": 1043, "name": "Lairon", "level": 23, "iv": 57.53 },
   { "id": 1044, "name": "Gible", "level": 31, "iv": 42.47 },
   { "id": 1045, "name": "Weedle", "level": 26, "iv": 44.62 },
+
   { "id": 1046, "name": "Caterpie", "level": 40, "iv": 48.92 },
   { "id": 1047, "name": "Ponyta", "level": 31, "iv": 26.34 },
   { "id": 1048, "name": "Horsea", "level": 7, "iv": 48.39 },
@@ -1059,6 +1111,7 @@
   { "id": 1063, "name": "Swablu", "level": 16, "iv": 32.8 },
   { "id": 1064, "name": "Rookidee", "level": 15, "iv": 52.15 },
   { "id": 1065, "name": "Golett", "level": 18, "iv": 14.52 },
+
   { "id": 1066, "name": "Starly", "level": 18, "iv": 48.39 },
   { "id": 1067, "name": "Muk", "level": 21, "iv": 62.37 },
   { "id": 1068, "name": "Hoppip", "level": 27, "iv": 38.71 },
@@ -1079,6 +1132,7 @@
   { "id": 1083, "name": "Pidgeotto", "level": 25, "iv": 41.94 },
   { "id": 1084, "name": "Loudred", "level": 26, "iv": 75.81 },
   { "id": 1085, "name": "Trapinch", "level": 32, "iv": 34.41 },
+
   { "id": 1086, "name": "Furfrou", "level": 21, "iv": 40.86 },
   { "id": 1087, "name": "Honedge", "level": 23, "iv": 62.37 },
   { "id": 1088, "name": "Crabominable", "level": 1, "iv": 46.77 },
@@ -1099,6 +1153,7 @@
   { "id": 1103, "name": "Quilava", "level": 8, "iv": 53.23 },
   { "id": 1104, "name": "Roggenrola", "level": 5, "iv": 55.38 },
   { "id": 1105, "name": "Whirlipede", "level": 15, "iv": 50.54 },
+
   { "id": 1106, "name": "Chikorita", "level": 31, "iv": 52.15 },
   { "id": 1107, "name": "Drifloon", "level": 11, "iv": 79.03 },
   { "id": 1108, "name": "Purrloin", "level": 35, "iv": 66.67 },
@@ -1119,6 +1174,7 @@
   { "id": 1123, "name": "Rattata", "level": 20, "iv": 50.54 },
   { "id": 1124, "name": "Karrablast", "level": 27, "iv": 35.48 },
   { "id": 1125, "name": "Tepig", "level": 24, "iv": 38.17 },
+
   { "id": 1126, "name": "Snorunt", "level": 7, "iv": 52.15 },
   { "id": 1127, "name": "Flabébé", "level": 15, "iv": 53.76 },
   { "id": 1128, "name": "Venipede", "level": 14, "iv": 59.14 },
@@ -1139,6 +1195,7 @@
   { "id": 1143, "name": "Lotad", "level": 25, "iv": 45.16 },
   { "id": 1144, "name": "Ponyta", "level": 29, "iv": 48.39 },
   { "id": 1145, "name": "Bounsweet", "level": 30, "iv": 53.76 },
+
   { "id": 1146, "name": "Cherubi", "level": 26, "iv": 84.41 },
   { "id": 1147, "name": "Mienfoo", "level": 13, "iv": 58.06 },
   { "id": 1148, "name": "Fletchling", "level": 23, "iv": 62.9 },
@@ -1159,6 +1216,7 @@
   { "id": 1163, "name": "Elgyem", "level": 22, "iv": 61.83 },
   { "id": 1164, "name": "Venonat", "level": 29, "iv": 74.73 },
   { "id": 1165, "name": "Caterpie", "level": 16, "iv": 38.17 },
+
   { "id": 1166, "name": "Drifblim", "level": 38, "iv": 64.52 },
   { "id": 1167, "name": "Bibarel", "level": 17, "iv": 62.9 },
   { "id": 1168, "name": "Pawniard", "level": 24, "iv": 29.03 },
@@ -1179,6 +1237,7 @@
   { "id": 1183, "name": "Vibrava", "level": 20, "iv": 35.48 },
   { "id": 1184, "name": "Elgyem", "level": 16, "iv": 47.31 },
   { "id": 1185, "name": "Venipede", "level": 10, "iv": 50 },
+
   { "id": 1186, "name": "Goomy", "level": 5, "iv": 43.55 },
   { "id": 1187, "name": "Nincada", "level": 38, "iv": 65.05 },
   { "id": 1188, "name": "Inkay", "level": 10, "iv": 70.43 },
@@ -1199,6 +1258,7 @@
   { "id": 1203, "name": "Pidgey", "level": 18, "iv": 48.39 },
   { "id": 1204, "name": "Fraxure", "level": 15, "iv": 30.11 },
   { "id": 1205, "name": "Shinx", "level": 26, "iv": 65.05 },
+
   { "id": 1206, "name": "Goomy", "level": 9, "iv": 39.25 },
   { "id": 1207, "name": "Ralts", "level": 21, "iv": 58.6 },
   { "id": 1208, "name": "Starly", "level": 27, "iv": 55.91 },
@@ -1219,6 +1279,7 @@
   { "id": 1223, "name": "Froakie", "level": 16, "iv": 41.94 },
   { "id": 1224, "name": "Hatterene", "level": 6, "iv": 53.76 },
   { "id": 1225, "name": "Stunky", "level": 29, "iv": 45.16 },
+
   { "id": 1226, "name": "Trubbish", "level": 15, "iv": 40.86 },
   { "id": 1227, "name": "Porygon2", "level": 30, "iv": 40.32 },
   { "id": 1228, "name": "Larvitar", "level": 24, "iv": 35.48 },
@@ -1239,6 +1300,7 @@
   { "id": 1243, "name": "Thwackey", "level": 35, "iv": 60.75 },
   { "id": 1244, "name": "Zubat", "level": 10, "iv": 52.15 },
   { "id": 1245, "name": "Tentacool", "level": 33, "iv": 50.54 },
+
   { "id": 1246, "name": "Amaura", "level": 14, "iv": 64.52 },
   { "id": 1247, "name": "Shelmet", "level": 28, "iv": 34.41 },
   { "id": 1248, "name": "Noibat", "level": 10, "iv": 70.43 },
@@ -1259,6 +1321,7 @@
   { "id": 1263, "name": "Porygon", "level": 14, "iv": 30.65 },
   { "id": 1264, "name": "Corphish", "level": 22, "iv": 32.26 },
   { "id": 1265, "name": "Omanyte", "level": 32, "iv": 36.02 },
+
   { "id": 1266, "name": "Steenee", "level": 18, "iv": 73.66 },
   { "id": 1267, "name": "Golisopod", "level": 25, "iv": 51.08 },
   { "id": 1268, "name": "Deino", "level": 23, "iv": 51.08 },
@@ -1279,6 +1342,7 @@
   { "id": 1283, "name": "Leafeon", "level": 41, "iv": 53.76 },
   { "id": 1284, "name": "Amaura", "level": 22, "iv": 61.83 },
   { "id": 1285, "name": "Zubat", "level": 28, "iv": 31.18 },
+
   { "id": 1286, "name": "Hoopa Unbound ❤️", "level": 100, "iv": 43.55 },
   { "id": 1287, "name": "Gurdurr", "level": 20, "iv": 72.04 },
   { "id": 1288, "name": "Meloetta", "level": 11, "iv": 50 },
@@ -1299,6 +1363,7 @@
   { "id": 1303, "name": "Impidimp", "level": 26, "iv": 26.88 },
   { "id": 1304, "name": "Hatenna", "level": 10, "iv": 44.09 },
   { "id": 1305, "name": "Remoraid", "level": 21, "iv": 44.62 },
+
   { "id": 1306, "name": "Hatenna", "level": 27, "iv": 52.15 },
   { "id": 1307, "name": "Gastly", "level": 22, "iv": 47.85 },
   { "id": 1308, "name": "Lillipup", "level": 8, "iv": 66.13 },
@@ -1319,6 +1384,7 @@
   { "id": 1323, "name": "Stufful", "level": 20, "iv": 33.33 },
   { "id": 1324, "name": "Ninetales", "level": 28, "iv": 61.29 },
   { "id": 1325, "name": "Vigoroth", "level": 29, "iv": 39.78 },
+
   { "id": 1326, "name": "Dratini", "level": 20, "iv": 43.55 },
   { "id": 1327, "name": "Ekans", "level": 1, "iv": 70.97 },
   { "id": 1328, "name": "Snorunt", "level": 28, "iv": 53.76 },
@@ -1339,6 +1405,7 @@
   { "id": 1343, "name": "Liepard", "level": 27, "iv": 53.23 },
   { "id": 1344, "name": "Wurmple", "level": 1, "iv": 35.48 },
   { "id": 1345, "name": "Blitzle", "level": 11, "iv": 66.13 },
+
   { "id": 1346, "name": "Morpeko", "level": 12, "iv": 43.01 },
   { "id": 1347, "name": "Vileplume", "level": 38, "iv": 59.68 },
   { "id": 1348, "name": "Rolycoly", "level": 25, "iv": 48.92 },
@@ -1359,6 +1426,7 @@
   { "id": 1363, "name": "Nidoran♂️", "level": 15, "iv": 48.39 },
   { "id": 1364, "name": "Pumpkaboo", "level": 24, "iv": 59.14 },
   { "id": 1365, "name": "Pikipek", "level": 3, "iv": 40.32 },
+
   { "id": 1366, "name": "Wurmple", "level": 39, "iv": 63.98 },
   { "id": 1367, "name": "Foongus", "level": 1, "iv": 55.38 },
   { "id": 1368, "name": "Hattrem", "level": 12, "iv": 20.43 },
@@ -1379,6 +1447,7 @@
   { "id": 1383, "name": "Blipbug", "level": 3, "iv": 53.76 },
   { "id": 1384, "name": "Luxio", "level": 30, "iv": 45.7 },
   { "id": 1385, "name": "Swablu", "level": 25, "iv": 70.43 },
+
   { "id": 1386, "name": "Crawdaunt", "level": 13, "iv": 27.96 },
   { "id": 1387, "name": "Crobat", "level": 1, "iv": 63.98 },
   { "id": 1388, "name": "Krokorok", "level": 21, "iv": 56.45 },
@@ -1399,6 +1468,7 @@
   { "id": 1403, "name": "Axew", "level": 17, "iv": 29.03 },
   { "id": 1404, "name": "Deino", "level": 20, "iv": 56.45 },
   { "id": 1405, "name": "Cranidos", "level": 11, "iv": 60.22 },
+
   { "id": 1406, "name": "Sinistea", "level": 11, "iv": 56.45 },
   { "id": 1407, "name": "Slakoth", "level": 13, "iv": 47.31 },
   { "id": 1408, "name": "Deino", "level": 48, "iv": 32.8 },
@@ -1419,6 +1489,7 @@
   { "id": 1423, "name": "Shinx", "level": 9, "iv": 52.69 },
   { "id": 1424, "name": "Trubbish", "level": 1, "iv": 42.47 },
   { "id": 1425, "name": "Chewtle", "level": 20, "iv": 54.84 },
+
   { "id": 1426, "name": "Impidimp", "level": 5, "iv": 30.65 },
   { "id": 1427, "name": "Spheal", "level": 22, "iv": 69.35 },
   { "id": 1428, "name": "Slugma", "level": 20, "iv": 69.89 },
@@ -1439,6 +1510,7 @@
   { "id": 1443, "name": "Venipede", "level": 24, "iv": 80.11 },
   { "id": 1444, "name": "Honedge", "level": 33, "iv": 42.47 },
   { "id": 1445, "name": "Vanilluxe", "level": 33, "iv": 58.6 },
+
   { "id": 1446, "name": "Dwebble", "level": 38, "iv": 43.01 },
   { "id": 1447, "name": "Feebas", "level": 19, "iv": 21.51 },
   { "id": 1448, "name": "Electrike", "level": 23, "iv": 44.62 },
@@ -1459,6 +1531,7 @@
   { "id": 1463, "name": "Skorupi", "level": 7, "iv": 32.8 },
   { "id": 1464, "name": "Bounsweet", "level": 37, "iv": 65.05 },
   { "id": 1465, "name": "Frillish", "level": 15, "iv": 37.1 },
+
   { "id": 1466, "name": "Sandile", "level": 23, "iv": 64.52 },
   { "id": 1467, "name": "Perrserker", "level": 1, "iv": 48.39 },
   { "id": 1468, "name": "Frillish", "level": 3, "iv": 55.38 },
@@ -1479,6 +1552,7 @@
   { "id": 1483, "name": "Vanillish", "level": 32, "iv": 55.91 },
   { "id": 1484, "name": "Togepi", "level": 34, "iv": 46.24 },
   { "id": 1485, "name": "Starly", "level": 13, "iv": 50.54 },
+
   { "id": 1486, "name": "Duosion", "level": 5, "iv": 63.98 },
   { "id": 1487, "name": "Purrloin", "level": 32, "iv": 40.32 },
   { "id": 1488, "name": "Drifblim", "level": 22, "iv": 40.32 },
@@ -1499,6 +1573,7 @@
   { "id": 1503, "name": "Gothita", "level": 40, "iv": 38.71 },
   { "id": 1504, "name": "Tentacool", "level": 23, "iv": 31.72 },
   { "id": 1505, "name": "Swoobat", "level": 3, "iv": 56.99 },
+
   { "id": 1506, "name": "Venipede", "level": 23, "iv": 48.92 },
   { "id": 1507, "name": "Sandile", "level": 28, "iv": 39.78 },
   { "id": 1508, "name": "Caterpie", "level": 26, "iv": 40.32 },
@@ -1519,6 +1594,7 @@
   { "id": 1523, "name": "Woobat", "level": 28, "iv": 48.39 },
   { "id": 1524, "name": "Zubat", "level": 26, "iv": 47.31 },
   { "id": 1525, "name": "Krokorok", "level": 28, "iv": 37.63 },
+
   { "id": 1526, "name": "Dreepy", "level": 27, "iv": 54.3 },
   { "id": 1527, "name": "Honedge", "level": 22, "iv": 58.6 },
   { "id": 1528, "name": "Voltorb", "level": 31, "iv": 40.86 },
@@ -1539,6 +1615,7 @@
   { "id": 1543, "name": "Fletchling", "level": 29, "iv": 32.8 },
   { "id": 1544, "name": "Sandile", "level": 25, "iv": 55.38 },
   { "id": 1545, "name": "Horsea", "level": 9, "iv": 47.31 },
+
   { "id": 1546, "name": "Tympole", "level": 16, "iv": 54.84 },
   { "id": 1547, "name": "Hoppip", "level": 30, "iv": 49.46 },
   { "id": 1548, "name": "Hoppip", "level": 8, "iv": 33.87 },
@@ -1559,6 +1636,7 @@
   { "id": 1563, "name": "Klink", "level": 14, "iv": 47.31 },
   { "id": 1564, "name": "Rhydon", "level": 1, "iv": 40.86 },
   { "id": 1565, "name": "Honedge", "level": 10, "iv": 65.05 },
+
   { "id": 1566, "name": "Charmander", "level": 25, "iv": 32.26 },
   { "id": 1567, "name": "Krokorok", "level": 15, "iv": 52.69 },
   { "id": 1568, "name": "Gible", "level": 18, "iv": 49.46 },
@@ -1579,6 +1657,7 @@
   { "id": 1583, "name": "Haunter", "level": 29, "iv": 37.63 },
   { "id": 1584, "name": "Vullaby", "level": 5, "iv": 30.11 },
   { "id": 1585, "name": "Machop", "level": 17, "iv": 59.68 },
+
   { "id": 1586, "name": "Lombre", "level": 17, "iv": 50 },
   { "id": 1587, "name": "Silicobra", "level": 12, "iv": 39.78 },
   { "id": 1588, "name": "Granbull", "level": 28, "iv": 43.55 },
@@ -1599,6 +1678,7 @@
   { "id": 1603, "name": "Rhyhorn", "level": 22, "iv": 49.46 },
   { "id": 1604, "name": "Exeggcute", "level": 24, "iv": 34.41 },
   { "id": 1605, "name": "Blitzle", "level": 39, "iv": 41.94 },
+
   { "id": 1606, "name": "Grubbin", "level": 28, "iv": 51.08 },
   { "id": 1607, "name": "Burmy", "level": 29, "iv": 30.11 },
   { "id": 1608, "name": "Spheal", "level": 32, "iv": 65.05 },
@@ -1619,6 +1699,7 @@
   { "id": 1623, "name": "Inteleon", "level": 31, "iv": 38.17 },
   { "id": 1624, "name": "Togetic", "level": 15, "iv": 48.92 },
   { "id": 1625, "name": "Bagon", "level": 23, "iv": 43.55 },
+
   { "id": 1626, "name": "Vulpix", "level": 27, "iv": 55.91 },
   { "id": 1627, "name": "Feraligatr", "level": 4, "iv": 39.25 },
   { "id": 1628, "name": "Piloswine", "level": 15, "iv": 27.96 },
@@ -1639,6 +1720,7 @@
   { "id": 1643, "name": "Bounsweet", "level": 15, "iv": 68.82 },
   { "id": 1644, "name": "Pidgey", "level": 20, "iv": 59.68 },
   { "id": 1645, "name": "Sewaddle", "level": 35, "iv": 52.15 },
+
   { "id": 1646, "name": "Treecko", "level": 11, "iv": 43.01 },
   { "id": 1647, "name": "Roggenrola", "level": 33, "iv": 50.54 },
   { "id": 1648, "name": "Kabutops", "level": 11, "iv": 60.22 },
@@ -1659,6 +1741,7 @@
   { "id": 1663, "name": "Togekiss", "level": 25, "iv": 39.78 },
   { "id": 1664, "name": "Torracat", "level": 4, "iv": 60.75 },
   { "id": 1665, "name": "Dusknoir", "level": 16, "iv": 54.3 },
+
   { "id": 1666, "name": "Rattata", "level": 21, "iv": 62.37 },
   { "id": 1667, "name": "Petilil", "level": 15, "iv": 68.28 },
   { "id": 1668, "name": "Charmander", "level": 30, "iv": 61.83 },
@@ -1679,6 +1762,7 @@
   { "id": 1683, "name": "Slowpoke", "level": 15, "iv": 36.56 },
   { "id": 1684, "name": "Nidoran♂️", "level": 26, "iv": 26.34 },
   { "id": 1685, "name": "Hatenna", "level": 27, "iv": 66.13 },
+
   { "id": 1686, "name": "Zubat", "level": 21, "iv": 63.98 },
   { "id": 1687, "name": "Misdreavus", "level": 28, "iv": 65.05 },
   { "id": 1688, "name": "Tentacool", "level": 12, "iv": 44.62 },
@@ -1699,6 +1783,7 @@
   { "id": 1703, "name": "Smoochum", "level": 1, "iv": 77.42 },
   { "id": 1704, "name": "Pidgeotto", "level": 18, "iv": 47.85 },
   { "id": 1705, "name": "Crawdaunt", "level": 7, "iv": 67.74 },
+
   { "id": 1706, "name": "Houndour", "level": 14, "iv": 59.14 },
   { "id": 1707, "name": "Whismur", "level": 7, "iv": 39.78 },
   { "id": 1708, "name": "Impidimp", "level": 29, "iv": 45.16 },
@@ -1719,6 +1804,7 @@
   { "id": 1723, "name": "Octillery", "level": 41, "iv": 56.99 },
   { "id": 1724, "name": "Bounsweet", "level": 21, "iv": 31.72 },
   { "id": 1725, "name": "Purrloin", "level": 11, "iv": 41.94 },
+
   { "id": 1726, "name": "Salandit", "level": 20, "iv": 30.11 },
   { "id": 1727, "name": "Lillipup", "level": 18, "iv": 43.01 },
   { "id": 1728, "name": "Mandibuzz", "level": 24, "iv": 45.16 },
@@ -1739,6 +1825,7 @@
   { "id": 1743, "name": "Honchkrow", "level": 7, "iv": 25.81 },
   { "id": 1744, "name": "Paras", "level": 21, "iv": 38.71 },
   { "id": 1745, "name": "Kingdra", "level": 19, "iv": 52.69 },
+
   { "id": 1746, "name": "Alomomola", "level": 1, "iv": 36.02 },
   { "id": 1747, "name": "Roggenrola", "level": 11, "iv": 46.77 },
   { "id": 1748, "name": "Minior", "level": 7, "iv": 63.44 },
@@ -1759,6 +1846,7 @@
   { "id": 1763, "name": "Drifloon", "level": 36, "iv": 66.13 },
   { "id": 1764, "name": "Croconaw", "level": 32, "iv": 65.05 },
   { "id": 1765, "name": "Duosion", "level": 21, "iv": 34.95 },
+
   { "id": 1766, "name": "Swinub", "level": 24, "iv": 30.65 },
   { "id": 1767, "name": "Diglett", "level": 16, "iv": 70.43 },
   { "id": 1768, "name": "Remoraid", "level": 36, "iv": 44.62 },
@@ -1779,6 +1867,7 @@
   { "id": 1783, "name": "Lotad", "level": 19, "iv": 62.37 },
   { "id": 1784, "name": "Gastly", "level": 19, "iv": 52.69 },
   { "id": 1785, "name": "Porygon", "level": 19, "iv": 57.53 },
+
   { "id": 1786, "name": "Pupitar", "level": 23, "iv": 49.46 },
   { "id": 1787, "name": "Plusle", "level": 9, "iv": 54.84 },
   { "id": 1788, "name": "Cufant", "level": 10, "iv": 53.23 },
@@ -1799,6 +1888,7 @@
   { "id": 1803, "name": "Pidgey", "level": 31, "iv": 56.45 },
   { "id": 1804, "name": "Buizel", "level": 20, "iv": 46.77 },
   { "id": 1805, "name": "Haunter", "level": 27, "iv": 36.56 },
+
   { "id": 1806, "name": "Dratini", "level": 1, "iv": 45.7 },
   { "id": 1807, "name": "Oddish", "level": 17, "iv": 48.92 },
   { "id": 1808, "name": "Pansage", "level": 28, "iv": 63.98 },
@@ -1819,12 +1909,13 @@
   { "id": 1823, "name": "Roggenrola", "level": 14, "iv": 59.14 },
   { "id": 1824, "name": "Duskull", "level": 34, "iv": 37.63 },
   { "id": 1825, "name": "Skiploom", "level": 2, "iv": 55.91 },
+
   { "id": 1826, "name": "Boldore", "level": 18, "iv": 52.15 },
   { "id": 1827, "name": "Ralts", "level": 3, "iv": 68.82 },
   { "id": 1828, "name": "Houndour", "level": 15, "iv": 55.38 },
   { "id": 1829, "name": "Flareon", "level": 13, "iv": 60.22 },
   { "id": 1830, "name": "Shellder", "level": 31, "iv": 40.32 },
-  { "id": 1831, "name": "ivysaur", "level": 17, "iv": 69.35 },
+  { "id": 1831, "name": "Ivysaur", "level": 17, "iv": 69.35 },
   { "id": 1832, "name": "Pumpkaboo", "level": 12, "iv": 57.53 },
   { "id": 1833, "name": "Spewpa", "level": 1, "iv": 24.19 },
   { "id": 1834, "name": "Decidueye", "level": 1, "iv": 50 },
@@ -1839,6 +1930,7 @@
   { "id": 1843, "name": "Orbeetle", "level": 25, "iv": 59.68 },
   { "id": 1844, "name": "Rhyhorn", "level": 14, "iv": 49.46 },
   { "id": 1845, "name": "Scorbunny", "level": 18, "iv": 51.61 },
+
   { "id": 1846, "name": "Cyndaquil", "level": 15, "iv": 40.86 },
   { "id": 1847, "name": "Tangela", "level": 22, "iv": 79.57 },
   { "id": 1848, "name": "Golett", "level": 18, "iv": 46.24 },
@@ -1859,6 +1951,7 @@
   { "id": 1863, "name": "Aegislash", "level": 29, "iv": 39.78 },
   { "id": 1864, "name": "Thwackey", "level": 6, "iv": 63.98 },
   { "id": 1865, "name": "Tirtouga", "level": 12, "iv": 32.26 },
+
   { "id": 1866, "name": "Tynamo", "level": 20, "iv": 60.75 },
   { "id": 1867, "name": "Sewaddle", "level": 10, "iv": 48.39 },
   { "id": 1868, "name": "Flabébé", "level": 27, "iv": 49.46 },
@@ -1879,6 +1972,7 @@
   { "id": 1883, "name": "Nidoran♀️", "level": 10, "iv": 51.61 },
   { "id": 1884, "name": "Spheal", "level": 18, "iv": 58.6 },
   { "id": 1885, "name": "Chansey", "level": 11, "iv": 70.43 },
+
   { "id": 1886, "name": "Spheal", "level": 15, "iv": 59.68 },
   { "id": 1887, "name": "Snivy", "level": 17, "iv": 46.24 },
   { "id": 1888, "name": "Floette", "level": 2, "iv": 64.52 },
@@ -1899,6 +1993,7 @@
   { "id": 1903, "name": "Scyther", "level": 28, "iv": 54.84 },
   { "id": 1904, "name": "Combee", "level": 29, "iv": 49.46 },
   { "id": 1905, "name": "Trubbish", "level": 9, "iv": 50.54 },
+
   { "id": 1906, "name": "Sandile", "level": 23, "iv": 48.39 },
   { "id": 1907, "name": "Duskull", "level": 9, "iv": 34.41 },
   { "id": 1908, "name": "Floette", "level": 2, "iv": 41.94 },
@@ -1919,6 +2014,7 @@
   { "id": 1923, "name": "Mudkip", "level": 20, "iv": 38.17 },
   { "id": 1924, "name": "Sensu Oricorio", "level": 28, "iv": 27.96 },
   { "id": 1925, "name": "Chansey", "level": 25, "iv": 43.01 },
+
   { "id": 1926, "name": "Electabuzz", "level": 15, "iv": 45.16 },
   { "id": 1927, "name": "Leafeon", "level": 21, "iv": 24.19 },
   { "id": 1928, "name": "Seismitoad", "level": 20, "iv": 37.1 },
@@ -1939,6 +2035,7 @@
   { "id": 1943, "name": "Wooloo", "level": 33, "iv": 39.78 },
   { "id": 1944, "name": "Sceptile", "level": 19, "iv": 50 },
   { "id": 1945, "name": "Lotad", "level": 18, "iv": 53.76 },
+
   { "id": 1946, "name": "Honedge", "level": 12, "iv": 34.95 },
   { "id": 1947, "name": "Dusclops", "level": 9, "iv": 43.55 },
   { "id": 1948, "name": "Primeape", "level": 9, "iv": 53.76 },
@@ -1959,6 +2056,7 @@
   { "id": 1963, "name": "Jigglypuff", "level": 18, "iv": 62.9 },
   { "id": 1964, "name": "Magnemite", "level": 25, "iv": 38.71 },
   { "id": 1965, "name": "Impidimp", "level": 20, "iv": 34.41 },
+
   { "id": 1966, "name": "Ekans", "level": 14, "iv": 45.7 },
   { "id": 1967, "name": "Morgrem", "level": 7, "iv": 31.18 },
   { "id": 1968, "name": "Froslass", "level": 43, "iv": 50 },
@@ -1979,6 +2077,7 @@
   { "id": 1983, "name": "Lampent", "level": 37, "iv": 58.6 },
   { "id": 1984, "name": "Mandibuzz", "level": 14, "iv": 71.51 },
   { "id": 1985, "name": "Gible", "level": 35, "iv": 50 },
+
   { "id": 1986, "name": "Blipbug", "level": 16, "iv": 46.24 },
   { "id": 1987, "name": "Bagon", "level": 30, "iv": 37.1 },
   { "id": 1988, "name": "Granbull", "level": 3, "iv": 54.3 },
@@ -1999,6 +2098,7 @@
   { "id": 2003, "name": "Skiploom", "level": 12, "iv": 41.94 },
   { "id": 2004, "name": "Bagon", "level": 16, "iv": 54.3 },
   { "id": 2005, "name": "Tympole", "level": 16, "iv": 66.13 },
+
   { "id": 2006, "name": "Blipbug", "level": 28, "iv": 56.45 },
   { "id": 2007, "name": "Froakie", "level": 10, "iv": 65.05 },
   { "id": 2008, "name": "Litwick", "level": 17, "iv": 53.76 },
@@ -2019,6 +2119,7 @@
   { "id": 2023, "name": "Caterpie", "level": 19, "iv": 52.69 },
   { "id": 2024, "name": "Solosis", "level": 23, "iv": 36.02 },
   { "id": 2025, "name": "Patrat", "level": 20, "iv": 53.76 },
+
   { "id": 2026, "name": "Gastly", "level": 30, "iv": 67.2 },
   { "id": 2027, "name": "Dreepy", "level": 27, "iv": 54.3 },
   { "id": 2028, "name": "Gastly", "level": 23, "iv": 39.78 },
@@ -2039,6 +2140,7 @@
   { "id": 2043, "name": "Lillipup", "level": 29, "iv": 38.71 },
   { "id": 2044, "name": "Quilladin", "level": 25, "iv": 46.24 },
   { "id": 2045, "name": "Litwick", "level": 12, "iv": 47.85 },
+
   { "id": 2046, "name": "Aerodactyl", "level": 18, "iv": 46.24 },
   { "id": 2047, "name": "Drilbur", "level": 14, "iv": 59.14 },
   { "id": 2048, "name": "Aron", "level": 27, "iv": 33.87 },
@@ -2059,6 +2161,7 @@
   { "id": 2063, "name": "Ralts", "level": 24, "iv": 38.17 },
   { "id": 2064, "name": "Flabébé", "level": 22, "iv": 47.85 },
   { "id": 2065, "name": "Phantump", "level": 18, "iv": 53.23 },
+
   { "id": 2066, "name": "Clamperl", "level": 35, "iv": 48.92 },
   { "id": 2067, "name": "Abra", "level": 16, "iv": 38.71 },
   { "id": 2068, "name": "Bellsprout", "level": 23, "iv": 61.29 },
@@ -2079,6 +2182,7 @@
   { "id": 2083, "name": "Floette", "level": 16, "iv": 42.47 },
   { "id": 2084, "name": "Dratini", "level": 21, "iv": 41.4 },
   { "id": 2085, "name": "Carnivine", "level": 24, "iv": 74.19 },
+
   { "id": 2086, "name": "Clauncher", "level": 14, "iv": 45.7 },
   { "id": 2087, "name": "Glameow", "level": 22, "iv": 40.86 },
   { "id": 2088, "name": "Minun", "level": 25, "iv": 74.19 },
@@ -2099,6 +2203,7 @@
   { "id": 2103, "name": "Patrat", "level": 16, "iv": 24.73 },
   { "id": 2104, "name": "Bounsweet", "level": 21, "iv": 67.2 },
   { "id": 2105, "name": "Lairon", "level": 48, "iv": 60.75 },
+
   { "id": 2106, "name": "Pancham", "level": 7, "iv": 75.81 },
   { "id": 2107, "name": "Honedge", "level": 17, "iv": 42.47 },
   { "id": 2108, "name": "Taillow", "level": 22, "iv": 50 },
@@ -2119,6 +2224,7 @@
   { "id": 2123, "name": "Fletchling", "level": 40, "iv": 66.13 },
   { "id": 2124, "name": "Swinub", "level": 16, "iv": 29.03 },
   { "id": 2125, "name": "Nuzleaf", "level": 18, "iv": 39.25 },
+
   { "id": 2126, "name": "Drifloon", "level": 28, "iv": 30.65 },
   { "id": 2127, "name": "Inkay", "level": 8, "iv": 31.18 },
   { "id": 2128, "name": "Clefairy", "level": 13, "iv": 67.74 },
@@ -2139,6 +2245,7 @@
   { "id": 2143, "name": "Mareanie", "level": 32, "iv": 53.23 },
   { "id": 2144, "name": "Chansey", "level": 19, "iv": 47.31 },
   { "id": 2145, "name": "Chimchar", "level": 17, "iv": 71.51 },
+
   { "id": 2146, "name": "Bagon", "level": 32, "iv": 61.83 },
   { "id": 2147, "name": "Dunsparce", "level": 17, "iv": 45.7 },
   { "id": 2148, "name": "Caterpie", "level": 24, "iv": 60.22 },
@@ -2159,6 +2266,7 @@
   { "id": 2163, "name": "Sentret", "level": 13, "iv": 55.38 },
   { "id": 2164, "name": "Spheal", "level": 17, "iv": 73.12 },
   { "id": 2165, "name": "Tympole", "level": 25, "iv": 40.32 },
+
   { "id": 2166, "name": "Pumpkaboo", "level": 15, "iv": 48.92 },
   { "id": 2167, "name": "Misdreavus", "level": 14, "iv": 57.53 },
   { "id": 2168, "name": "Mareep", "level": 29, "iv": 63.98 },
@@ -2179,6 +2287,7 @@
   { "id": 2183, "name": "Litwick", "level": 1, "iv": 53.23 },
   { "id": 2184, "name": "Panpour", "level": 24, "iv": 29.57 },
   { "id": 2185, "name": "Inkay", "level": 19, "iv": 66.13 },
+
   { "id": 2186, "name": "Ralts", "level": 14, "iv": 56.45 },
   { "id": 2187, "name": "Bunnelby", "level": 20, "iv": 45.16 },
   { "id": 2188, "name": "Turtonator", "level": 30, "iv": 31.72 },
@@ -2199,6 +2308,7 @@
   { "id": 2203, "name": "Spinarak", "level": 37, "iv": 71.51 },
   { "id": 2204, "name": "Tangela", "level": 29, "iv": 47.85 },
   { "id": 2205, "name": "Mareanie", "level": 19, "iv": 36.56 },
+
   { "id": 2206, "name": "Stunky", "level": 26, "iv": 59.14 },
   { "id": 2207, "name": "Spheal", "level": 17, "iv": 60.75 },
   { "id": 2208, "name": "Jigglypuff", "level": 22, "iv": 66.13 },
@@ -2219,6 +2329,7 @@
   { "id": 2223, "name": "Rolycoly", "level": 1, "iv": 52.15 },
   { "id": 2224, "name": "Drakloak", "level": 21, "iv": 38.71 },
   { "id": 2225, "name": "Cacnea", "level": 20, "iv": 81.18 },
+
   { "id": 2226, "name": "Bellsprout", "level": 23, "iv": 36.02 },
   { "id": 2227, "name": "Bidoof", "level": 8, "iv": 44.62 },
   { "id": 2228, "name": "Togepi", "level": 1, "iv": 32.26 },
@@ -2239,6 +2350,7 @@
   { "id": 2243, "name": "Wooper", "level": 31, "iv": 65.05 },
   { "id": 2244, "name": "Duskull", "level": 4, "iv": 37.63 },
   { "id": 2245, "name": "Kricketot", "level": 31, "iv": 21.51 },
+
   { "id": 2246, "name": "Hoothoot", "level": 25, "iv": 40.32 },
   { "id": 2247, "name": "Yamask", "level": 11, "iv": 53.76 },
   { "id": 2248, "name": "Pidgey", "level": 10, "iv": 43.01 },
@@ -2259,6 +2371,7 @@
   { "id": 2263, "name": "Braixen", "level": 12, "iv": 68.28 },
   { "id": 2264, "name": "Grubbin", "level": 13, "iv": 41.4 },
   { "id": 2265, "name": "Charmeleon", "level": 30, "iv": 37.1 },
+
   { "id": 2266, "name": "Golurk", "level": 30, "iv": 51.08 },
   { "id": 2267, "name": "Seedot", "level": 22, "iv": 40.86 },
   { "id": 2268, "name": "Porygon", "level": 3, "iv": 34.41 },
@@ -2279,6 +2392,7 @@
   { "id": 2283, "name": "Oddish", "level": 12, "iv": 30.11 },
   { "id": 2284, "name": "Rookidee", "level": 14, "iv": 40.32 },
   { "id": 2285, "name": "Cacnea", "level": 29, "iv": 42.47 },
+
   { "id": 2286, "name": "Gastly", "level": 5, "iv": 43.55 },
   { "id": 2287, "name": "Croconaw", "level": 10, "iv": 50.54 },
   { "id": 2288, "name": "Poliwag", "level": 16, "iv": 45.16 },
@@ -2299,6 +2413,7 @@
   { "id": 2303, "name": "Frogadier", "level": 11, "iv": 61.29 },
   { "id": 2304, "name": "Stunky", "level": 25, "iv": 51.08 },
   { "id": 2305, "name": "Mankey", "level": 10, "iv": 50 },
+
   { "id": 2306, "name": "Purrloin", "level": 31, "iv": 64.52 },
   { "id": 2307, "name": "Stunky", "level": 43, "iv": 45.7 },
   { "id": 2308, "name": "Vanillite", "level": 21, "iv": 54.84 },
@@ -2319,6 +2434,7 @@
   { "id": 2323, "name": "Magnemite", "level": 3, "iv": 49.46 },
   { "id": 2324, "name": "Oddish", "level": 27, "iv": 52.15 },
   { "id": 2325, "name": "Trapinch", "level": 12, "iv": 47.31 },
+
   { "id": 2326, "name": "Jangmo-o", "level": 13, "iv": 35.48 },
   { "id": 2327, "name": "Venipede", "level": 21, "iv": 43.01 },
   { "id": 2328, "name": "Carvanha", "level": 30, "iv": 51.08 },
@@ -2339,6 +2455,7 @@
   { "id": 2343, "name": "Nincada", "level": 15, "iv": 45.7 },
   { "id": 2344, "name": "Zubat", "level": 5, "iv": 44.09 },
   { "id": 2345, "name": "Gible", "level": 5, "iv": 29.57 },
+
   { "id": 2346, "name": "Shuckle", "level": 14, "iv": 43.01 },
   { "id": 2347, "name": "Duskull", "level": 17, "iv": 63.44 },
   { "id": 2348, "name": "Spinarak", "level": 23, "iv": 51.61 },
@@ -2359,6 +2476,7 @@
   { "id": 2363, "name": "Hoppip", "level": 6, "iv": 27.96 },
   { "id": 2364, "name": "Poochyena", "level": 27, "iv": 59.14 },
   { "id": 2365, "name": "Fomantis", "level": 15, "iv": 50 },
+
   { "id": 2366, "name": "Volbeat", "level": 19, "iv": 73.66 },
   { "id": 2367, "name": "Pineco", "level": 18, "iv": 56.45 },
   { "id": 2368, "name": "Butterfree", "level": 24, "iv": 59.14 },
@@ -2379,6 +2497,7 @@
   { "id": 2383, "name": "Gothita", "level": 8, "iv": 48.39 },
   { "id": 2384, "name": "Trapinch", "level": 24, "iv": 36.56 },
   { "id": 2385, "name": "Lotad", "level": 23, "iv": 43.55 },
+
   { "id": 2386, "name": "Bellsprout", "level": 26, "iv": 51.08 },
   { "id": 2387, "name": "Larvitar", "level": 22, "iv": 51.61 },
   { "id": 2388, "name": "Venonat", "level": 11, "iv": 62.9 },
@@ -2399,6 +2518,7 @@
   { "id": 2403, "name": "Trapinch", "level": 16, "iv": 59.14 },
   { "id": 2404, "name": "Servine", "level": 19, "iv": 52.69 },
   { "id": 2405, "name": "Swinub", "level": 37, "iv": 48.92 },
+
   { "id": 2406, "name": "Sliggoo", "level": 19, "iv": 22.58 },
   { "id": 2407, "name": "Tentacool", "level": 27, "iv": 46.77 },
   { "id": 2408, "name": "Krokorok", "level": 19, "iv": 58.06 },
@@ -2419,6 +2539,7 @@
   { "id": 2423, "name": "Lycanroc", "level": 17, "iv": 44.62 },
   { "id": 2424, "name": "Tynamo", "level": 8, "iv": 51.61 },
   { "id": 2425, "name": "Cyndaquil", "level": 24, "iv": 50.54 },
+
   { "id": 2426, "name": "Passimian", "level": 2, "iv": 44.09 },
   { "id": 2427, "name": "Weedle", "level": 1, "iv": 50.54 },
   { "id": 2428, "name": "Hatenna", "level": 15, "iv": 32.26 },
@@ -2439,6 +2560,7 @@
   { "id": 2443, "name": "Skrelp", "level": 16, "iv": 22.58 },
   { "id": 2444, "name": "Popplio", "level": 34, "iv": 39.78 },
   { "id": 2445, "name": "Magnemite", "level": 20, "iv": 51.61 },
+
   { "id": 2446, "name": "Tympole", "level": 14, "iv": 60.75 },
   { "id": 2447, "name": "Charmander", "level": 17, "iv": 36.56 },
   { "id": 2448, "name": "Shuppet", "level": 24, "iv": 59.68 },
@@ -2459,6 +2581,7 @@
   { "id": 2463, "name": "Vanillite", "level": 19, "iv": 48.39 },
   { "id": 2464, "name": "Dragalge", "level": 19, "iv": 40.86 },
   { "id": 2465, "name": "Slowpoke", "level": 25, "iv": 18.82 },
+
   { "id": 2466, "name": "Vullaby", "level": 18, "iv": 59.68 },
   { "id": 2467, "name": "Foongus", "level": 13, "iv": 39.25 },
   { "id": 2468, "name": "Swadloon", "level": 9, "iv": 34.41 },
@@ -2479,6 +2602,7 @@
   { "id": 2483, "name": "Oddish", "level": 17, "iv": 46.24 },
   { "id": 2484, "name": "Remoraid", "level": 16, "iv": 77.42 },
   { "id": 2485, "name": "Trapinch", "level": 18, "iv": 60.22 },
+
   { "id": 2486, "name": "Poliwag", "level": 21, "iv": 43.55 },
   { "id": 2487, "name": "Skwovet", "level": 25, "iv": 44.62 },
   { "id": 2488, "name": "Shuppet", "level": 31, "iv": 47.31 },
@@ -2499,6 +2623,7 @@
   { "id": 2503, "name": "Eevee", "level": 10, "iv": 36.56 },
   { "id": 2504, "name": "Gigalith", "level": 18, "iv": 53.23 },
   { "id": 2505, "name": "Poliwag", "level": 20, "iv": 25.27 },
+
   { "id": 2506, "name": "Gothorita", "level": 33, "iv": 39.78 },
   { "id": 2507, "name": "Espurr", "level": 18, "iv": 41.4 },
   { "id": 2508, "name": "Wobbuffet", "level": 26, "iv": 68.82 },
@@ -2519,6 +2644,7 @@
   { "id": 2523, "name": "Charjabug", "level": 19, "iv": 46.24 },
   { "id": 2524, "name": "Doduo", "level": 17, "iv": 50.54 },
   { "id": 2525, "name": "Mareep", "level": 9, "iv": 75.27 },
+
   { "id": 2526, "name": "Shinx", "level": 17, "iv": 57.53 },
   { "id": 2527, "name": "Sandile", "level": 13, "iv": 61.29 },
   { "id": 2528, "name": "Gothita", "level": 9, "iv": 23.66 },
@@ -2539,12 +2665,13 @@
   { "id": 2543, "name": "Grookey", "level": 14, "iv": 64.52 },
   { "id": 2544, "name": "Timburr", "level": 23, "iv": 65.59 },
   { "id": 2545, "name": "Spearow", "level": 5, "iv": 57.53 },
+
   { "id": 2546, "name": "Thwackey", "level": 11, "iv": 51.08 },
   { "id": 2547, "name": "Lotad", "level": 15, "iv": 62.37 },
   { "id": 2548, "name": "Gastly", "level": 26, "iv": 41.94 },
   { "id": 2549, "name": "Larvitar", "level": 15, "iv": 24.73 },
   { "id": 2550, "name": "Tranquill", "level": 23, "iv": 50 },
-  { "id": 2551, "name": "ivysaur", "level": 3, "iv": 79.57 },
+  { "id": 2551, "name": "Ivysaur", "level": 3, "iv": 79.57 },
   { "id": 2552, "name": "Tympole", "level": 17, "iv": 39.78 },
   { "id": 2553, "name": "Graveler", "level": 29, "iv": 59.68 },
   { "id": 2554, "name": "Sizzlipede", "level": 19, "iv": 55.91 },
@@ -2559,6 +2686,7 @@
   { "id": 2563, "name": "Porygon", "level": 16, "iv": 37.63 },
   { "id": 2564, "name": "Spewpa", "level": 13, "iv": 51.08 },
   { "id": 2565, "name": "Magikarp", "level": 31, "iv": 58.06 },
+
   { "id": 2566, "name": "Timburr", "level": 15, "iv": 45.16 },
   { "id": 2567, "name": "Scraggy", "level": 2, "iv": 50.54 },
   { "id": 2568, "name": "Sandile", "level": 29, "iv": 44.09 },
@@ -2579,6 +2707,7 @@
   { "id": 2583, "name": "Duskull", "level": 16, "iv": 58.6 },
   { "id": 2584, "name": "Sinistea", "level": 22, "iv": 50.54 },
   { "id": 2585, "name": "Pidove", "level": 9, "iv": 56.45 },
+
   { "id": 2586, "name": "Pancham", "level": 23, "iv": 48.92 },
   { "id": 2587, "name": "Phantump", "level": 13, "iv": 61.83 },
   { "id": 2588, "name": "Caterpie", "level": 34, "iv": 37.63 },
@@ -2599,6 +2728,7 @@
   { "id": 2603, "name": "Roggenrola", "level": 18, "iv": 57.53 },
   { "id": 2604, "name": "Jangmo-o", "level": 26, "iv": 68.82 },
   { "id": 2605, "name": "Rolycoly", "level": 23, "iv": 55.91 },
+
   { "id": 2606, "name": "Houndour", "level": 47, "iv": 34.41 },
   { "id": 2607, "name": "Umbreon", "level": 30, "iv": 33.87 },
   { "id": 2608, "name": "Fletchling", "level": 30, "iv": 61.83 },
@@ -2619,6 +2749,7 @@
   { "id": 2623, "name": "Spheal", "level": 25, "iv": 74.19 },
   { "id": 2624, "name": "Floette", "level": 21, "iv": 40.32 },
   { "id": 2625, "name": "Duskull", "level": 20, "iv": 49.46 },
+
   { "id": 2626, "name": "Dewott", "level": 25, "iv": 43.01 },
   { "id": 2627, "name": "Nidoran♂️", "level": 43, "iv": 63.44 },
   { "id": 2628, "name": "Bidoof", "level": 17, "iv": 36.02 },
@@ -2639,6 +2770,7 @@
   { "id": 2643, "name": "Roselia", "level": 19, "iv": 52.15 },
   { "id": 2644, "name": "Shelmet", "level": 11, "iv": 33.87 },
   { "id": 2645, "name": "Phantump", "level": 27, "iv": 70.43 },
+
   { "id": 2646, "name": "Phantump", "level": 32, "iv": 30.11 },
   { "id": 2647, "name": "Camerupt", "level": 38, "iv": 44.09 },
   { "id": 2648, "name": "Barboach", "level": 1, "iv": 41.4 },
@@ -2659,6 +2791,7 @@
   { "id": 2663, "name": "Abra", "level": 20, "iv": 43.55 },
   { "id": 2664, "name": "Hawlucha", "level": 33, "iv": 35.48 },
   { "id": 2665, "name": "Audino", "level": 35, "iv": 44.62 },
+
   { "id": 2666, "name": "Tranquill", "level": 28, "iv": 25.27 },
   { "id": 2667, "name": "Solosis", "level": 14, "iv": 51.61 },
   { "id": 2668, "name": "Timburr", "level": 20, "iv": 68.82 },
@@ -2679,6 +2812,7 @@
   { "id": 2683, "name": "Grubbin", "level": 17, "iv": 55.91 },
   { "id": 2684, "name": "Shinx", "level": 8, "iv": 57.53 },
   { "id": 2685, "name": "Pikipek", "level": 28, "iv": 58.06 },
+
   { "id": 2686, "name": "Impidimp", "level": 16, "iv": 41.4 },
   { "id": 2687, "name": "Honedge", "level": 16, "iv": 75.81 },
   { "id": 2688, "name": "Hatenna", "level": 11, "iv": 69.35 },
@@ -2699,6 +2833,7 @@
   { "id": 2703, "name": "Petilil", "level": 1, "iv": 39.25 },
   { "id": 2704, "name": "Snorunt", "level": 2, "iv": 74.19 },
   { "id": 2705, "name": "Morgrem", "level": 8, "iv": 35.48 },
+
   { "id": 2706, "name": "Yanmega", "level": 37, "iv": 19.89 },
   { "id": 2707, "name": "Machop", "level": 15, "iv": 71.51 },
   { "id": 2708, "name": "Metagross", "level": 8, "iv": 44.09 },
@@ -2719,6 +2854,7 @@
   { "id": 2723, "name": "Electivire", "level": 29, "iv": 48.39 },
   { "id": 2724, "name": "Furret", "level": 19, "iv": 65.59 },
   { "id": 2725, "name": "Caterpie", "level": 33, "iv": 36.56 },
+
   { "id": 2726, "name": "Dratini", "level": 20, "iv": 37.63 },
   { "id": 2727, "name": "Rhyhorn", "level": 15, "iv": 70.97 },
   { "id": 2728, "name": "Gastly", "level": 14, "iv": 50.54 },
@@ -2739,6 +2875,7 @@
   { "id": 2743, "name": "Sandile", "level": 19, "iv": 41.94 },
   { "id": 2744, "name": "Snover", "level": 18, "iv": 53.76 },
   { "id": 2745, "name": "Rhydon", "level": 26, "iv": 30.65 },
+
   { "id": 2746, "name": "Dustox", "level": 32, "iv": 24.73 },
   { "id": 2747, "name": "Drowzee", "level": 29, "iv": 76.88 },
   { "id": 2748, "name": "Blipbug", "level": 38, "iv": 51.08 },
@@ -2759,6 +2896,7 @@
   { "id": 2763, "name": "Weedle", "level": 20, "iv": 60.22 },
   { "id": 2764, "name": "Seedot", "level": 15, "iv": 62.37 },
   { "id": 2765, "name": "Litwick", "level": 25, "iv": 49.46 },
+
   { "id": 2766, "name": "Gothorita", "level": 2, "iv": 59.68 },
   { "id": 2767, "name": "Geodude", "level": 10, "iv": 47.31 },
   { "id": 2768, "name": "Shellder", "level": 18, "iv": 64.52 },
@@ -2779,6 +2917,7 @@
   { "id": 2783, "name": "Dewpider", "level": 17, "iv": 36.02 },
   { "id": 2784, "name": "Baltoy", "level": 18, "iv": 34.95 },
   { "id": 2785, "name": "Duskull", "level": 29, "iv": 43.55 },
+
   { "id": 2786, "name": "Budew", "level": 26, "iv": 54.84 },
   { "id": 2787, "name": "Carvanha", "level": 16, "iv": 56.99 },
   { "id": 2788, "name": "Squirtle", "level": 24, "iv": 36.56 },
@@ -2799,6 +2938,7 @@
   { "id": 2803, "name": "Aron", "level": 21, "iv": 52.15 },
   { "id": 2804, "name": "Wurmple", "level": 23, "iv": 37.63 },
   { "id": 2805, "name": "Linoone", "level": 1, "iv": 61.83 },
+
   { "id": 2806, "name": "Quilladin", "level": 22, "iv": 64.52 },
   { "id": 2807, "name": "Honedge", "level": 20, "iv": 55.91 },
   { "id": 2808, "name": "Hoppip", "level": 31, "iv": 63.98 },
@@ -2819,6 +2959,7 @@
   { "id": 2823, "name": "Ledyba", "level": 21, "iv": 52.15 },
   { "id": 2824, "name": "Zorua", "level": 34, "iv": 36.56 },
   { "id": 2825, "name": "Seismitoad", "level": 11, "iv": 61.83 },
+
   { "id": 2826, "name": "Spritzee", "level": 8, "iv": 49.46 },
   { "id": 2827, "name": "Flabébé", "level": 13, "iv": 69.35 },
   { "id": 2828, "name": "Elgyem", "level": 12, "iv": 27.96 },
@@ -2839,11 +2980,12 @@
   { "id": 2843, "name": "Vanillite", "level": 21, "iv": 39.78 },
   { "id": 2844, "name": "Goomy", "level": 26, "iv": 67.74 },
   { "id": 2845, "name": "Bounsweet", "level": 20, "iv": 57.53 },
+
   { "id": 2846, "name": "Cutiefly", "level": 23, "iv": 61.83 },
   { "id": 2847, "name": "Mankey", "level": 22, "iv": 44.09 },
   { "id": 2848, "name": "Gastly", "level": 20, "iv": 47.85 },
   { "id": 2849, "name": "Cubchoo", "level": 5, "iv": 70.43 },
-  { "id": 2850, "name": "Landorus ❤️", "level": 35, "iv": 56.99 },
+  { "id": 2850, "name": "Landorus ❤️", "level": 100, "iv": 56.99 },
   { "id": 2851, "name": "Staraptor", "level": 23, "iv": 55.38 },
   { "id": 2852, "name": "Dreepy", "level": 24, "iv": 40.86 },
   { "id": 2853, "name": "Kadabra", "level": 15, "iv": 52.15 },
@@ -2859,6 +3001,7 @@
   { "id": 2863, "name": "Morgrem", "level": 7, "iv": 50.54 },
   { "id": 2864, "name": "Hoppip", "level": 26, "iv": 50.54 },
   { "id": 2865, "name": "Trubbish", "level": 21, "iv": 48.39 },
+
   { "id": 2866, "name": "Carvanha", "level": 30, "iv": 37.63 },
   { "id": 2867, "name": "Abra", "level": 16, "iv": 44.09 },
   { "id": 2868, "name": "Flabébé", "level": 13, "iv": 20.43 },
@@ -2879,6 +3022,7 @@
   { "id": 2883, "name": "Charizard", "level": 16, "iv": 51.08 },
   { "id": 2884, "name": "Sunflora", "level": 10, "iv": 51.61 },
   { "id": 2885, "name": "Remoraid", "level": 25, "iv": 52.15 },
+
   { "id": 2886, "name": "Deino", "level": 46, "iv": 36.02 },
   { "id": 2887, "name": "Klink", "level": 25, "iv": 50.54 },
   { "id": 2888, "name": "Floette", "level": 19, "iv": 26.34 },
@@ -2899,6 +3043,7 @@
   { "id": 2903, "name": "Impidimp", "level": 10, "iv": 48.92 },
   { "id": 2904, "name": "Rockruff", "level": 8, "iv": 45.16 },
   { "id": 2905, "name": "Meowstic", "level": 35, "iv": 36.56 },
+
   { "id": 2906, "name": "Milcery", "level": 22, "iv": 58.6 },
   { "id": 2907, "name": "Pidove", "level": 33, "iv": 40.86 },
   { "id": 2908, "name": "Skrelp", "level": 22, "iv": 52.69 },
@@ -2919,6 +3064,7 @@
   { "id": 2923, "name": "Milotic", "level": 14, "iv": 49.46 },
   { "id": 2924, "name": "Frogadier", "level": 21, "iv": 50 },
   { "id": 2925, "name": "Rockruff", "level": 21, "iv": 40.86 },
+
   { "id": 2926, "name": "Gastly", "level": 32, "iv": 44.09 },
   { "id": 2927, "name": "Pidgey", "level": 16, "iv": 68.28 },
   { "id": 2928, "name": "Gothita", "level": 29, "iv": 38.17 },
@@ -2939,6 +3085,7 @@
   { "id": 2943, "name": "Altaria", "level": 35, "iv": 34.41 },
   { "id": 2944, "name": "Roggenrola", "level": 30, "iv": 45.7 },
   { "id": 2945, "name": "Sharpedo", "level": 15, "iv": 49.46 },
+
   { "id": 2946, "name": "Gastly", "level": 24, "iv": 49.46 },
   { "id": 2947, "name": "Hatenna", "level": 24, "iv": 42.47 },
   { "id": 2948, "name": "Mareep", "level": 3, "iv": 69.35 },
@@ -2959,6 +3106,7 @@
   { "id": 2963, "name": "Squirtle", "level": 10, "iv": 66.13 },
   { "id": 2964, "name": "Bunnelby", "level": 25, "iv": 47.85 },
   { "id": 2965, "name": "Ludicolo", "level": 28, "iv": 32.8 },
+
   { "id": 2966, "name": "Starly", "level": 18, "iv": 50 },
   { "id": 2967, "name": "Mawile", "level": 20, "iv": 43.01 },
   { "id": 2968, "name": "Rockruff", "level": 14, "iv": 51.08 },
@@ -2979,6 +3127,7 @@
   { "id": 2983, "name": "Gastly", "level": 7, "iv": 51.61 },
   { "id": 2984, "name": "Lampent", "level": 18, "iv": 47.31 },
   { "id": 2985, "name": "Herdier", "level": 7, "iv": 47.85 },
+
   { "id": 2986, "name": "Pumpkaboo", "level": 9, "iv": 48.92 },
   { "id": 2987, "name": "Drizzile", "level": 24, "iv": 46.77 },
   { "id": 2988, "name": "Gible", "level": 32, "iv": 59.14 },
@@ -2999,6 +3148,7 @@
   { "id": 3003, "name": "Clauncher", "level": 1, "iv": 44.62 },
   { "id": 3004, "name": "Starly", "level": 22, "iv": 44.09 },
   { "id": 3005, "name": "Scraggy", "level": 17, "iv": 44.62 },
+
   { "id": 3006, "name": "Machoke", "level": 12, "iv": 47.31 },
   { "id": 3007, "name": "Whismur", "level": 26, "iv": 69.89 },
   { "id": 3008, "name": "Sneasel", "level": 16, "iv": 44.09 },
@@ -3019,6 +3169,7 @@
   { "id": 3023, "name": "Shinx", "level": 1, "iv": 65.05 },
   { "id": 3024, "name": "Tynamo", "level": 7, "iv": 27.42 },
   { "id": 3025, "name": "Wobbuffet", "level": 28, "iv": 69.89 },
+
   { "id": 3026, "name": "Komala", "level": 32, "iv": 43.55 },
   { "id": 3027, "name": "Ralts", "level": 6, "iv": 60.75 },
   { "id": 3028, "name": "Magneton", "level": 43, "iv": 44.62 },
@@ -3039,6 +3190,7 @@
   { "id": 3043, "name": "Remoraid", "level": 25, "iv": 41.4 },
   { "id": 3044, "name": "Gastly", "level": 28, "iv": 72.04 },
   { "id": 3045, "name": "Duskull", "level": 30, "iv": 48.39 },
+
   { "id": 3046, "name": "Darumaka", "level": 11, "iv": 54.3 },
   { "id": 3047, "name": "Poliwag", "level": 15, "iv": 31.72 },
   { "id": 3048, "name": "Bounsweet", "level": 23, "iv": 54.84 },
@@ -3059,6 +3211,7 @@
   { "id": 3063, "name": "Ferroseed", "level": 25, "iv": 51.08 },
   { "id": 3064, "name": "Eelektrik", "level": 38, "iv": 40.86 },
   { "id": 3065, "name": "Hatenna", "level": 6, "iv": 38.17 },
+
   { "id": 3066, "name": "Honedge", "level": 2, "iv": 47.31 },
   { "id": 3067, "name": "Litwick", "level": 20, "iv": 57.53 },
   { "id": 3068, "name": "Shellos", "level": 22, "iv": 41.94 },
@@ -3079,6 +3232,7 @@
   { "id": 3083, "name": "Gloom", "level": 20, "iv": 60.75 },
   { "id": 3084, "name": "Vullaby", "level": 7, "iv": 36.02 },
   { "id": 3085, "name": "Rolycoly", "level": 7, "iv": 32.8 },
+
   { "id": 3086, "name": "Porygon", "level": 23, "iv": 46.24 },
   { "id": 3087, "name": "Dratini", "level": 9, "iv": 42.47 },
   { "id": 3088, "name": "Torchic", "level": 16, "iv": 56.45 },
@@ -3099,6 +3253,7 @@
   { "id": 3103, "name": "Trapinch", "level": 17, "iv": 51.08 },
   { "id": 3104, "name": "Gothita", "level": 3, "iv": 61.83 },
   { "id": 3105, "name": "Rhyhorn", "level": 33, "iv": 65.05 },
+
   { "id": 3106, "name": "Electabuzz", "level": 38, "iv": 41.94 },
   { "id": 3107, "name": "Darumaka", "level": 16, "iv": 52.15 },
   { "id": 3108, "name": "Stunky", "level": 22, "iv": 57.53 },
@@ -3119,6 +3274,7 @@
   { "id": 3123, "name": "Klink", "level": 20, "iv": 60.75 },
   { "id": 3124, "name": "Joltik", "level": 11, "iv": 55.38 },
   { "id": 3125, "name": "Vanillite", "level": 18, "iv": 28.49 },
+
   { "id": 3126, "name": "Golett", "level": 21, "iv": 36.56 },
   { "id": 3127, "name": "Floette", "level": 21, "iv": 54.84 },
   { "id": 3128, "name": "Natu", "level": 10, "iv": 39.78 },
@@ -3139,6 +3295,7 @@
   { "id": 3143, "name": "Fraxure", "level": 16, "iv": 52.15 },
   { "id": 3144, "name": "Venipede", "level": 15, "iv": 60.75 },
   { "id": 3145, "name": "Seedot", "level": 13, "iv": 61.29 },
+
   { "id": 3146, "name": "Cutiefly", "level": 18, "iv": 29.57 },
   { "id": 3147, "name": "Archen", "level": 36, "iv": 53.23 },
   { "id": 3148, "name": "Trumbeak", "level": 19, "iv": 40.86 },
@@ -3159,6 +3316,7 @@
   { "id": 3163, "name": "Litten", "level": 11, "iv": 39.25 },
   { "id": 3164, "name": "Krookodile", "level": 1, "iv": 52.15 },
   { "id": 3165, "name": "Salamence", "level": 13, "iv": 41.94 },
+
   { "id": 3166, "name": "Geodude", "level": 12, "iv": 66.13 },
   { "id": 3167, "name": "Starly", "level": 1, "iv": 42.47 },
   { "id": 3168, "name": "Scatterbug", "level": 26, "iv": 47.31 },
@@ -3179,6 +3337,7 @@
   { "id": 3183, "name": "Cofagrigus", "level": 35, "iv": 54.84 },
   { "id": 3184, "name": "Steenee", "level": 25, "iv": 42.47 },
   { "id": 3185, "name": "Rhyhorn", "level": 25, "iv": 41.4 },
+
   { "id": 3186, "name": "Purrloin", "level": 27, "iv": 56.99 },
   { "id": 3187, "name": "Axew", "level": 8, "iv": 53.23 },
   { "id": 3188, "name": "Morpeko", "level": 16, "iv": 73.66 },
@@ -3199,6 +3358,7 @@
   { "id": 3203, "name": "Dottler", "level": 8, "iv": 59.68 },
   { "id": 3204, "name": "Brionne", "level": 16, "iv": 36.56 },
   { "id": 3205, "name": "Deino", "level": 13, "iv": 39.78 },
+
   { "id": 3206, "name": "Joltik", "level": 20, "iv": 48.39 },
   { "id": 3207, "name": "Spiritomb", "level": 15, "iv": 31.72 },
   { "id": 3208, "name": "Dottler", "level": 6, "iv": 44.09 },
@@ -3219,6 +3379,7 @@
   { "id": 3223, "name": "Gulpin", "level": 5, "iv": 58.6 },
   { "id": 3224, "name": "Tynamo", "level": 33, "iv": 40.32 },
   { "id": 3225, "name": "Litwick", "level": 11, "iv": 45.7 },
+
   { "id": 3226, "name": "Dragonair", "level": 15, "iv": 32.8 },
   { "id": 3227, "name": "Prinplup", "level": 18, "iv": 61.83 },
   { "id": 3228, "name": "Steenee", "level": 25, "iv": 72.58 },
@@ -3239,6 +3400,7 @@
   { "id": 3243, "name": "Klink", "level": 23, "iv": 44.09 },
   { "id": 3244, "name": "Remoraid", "level": 36, "iv": 57.53 },
   { "id": 3245, "name": "Bronzor", "level": 35, "iv": 38.71 },
+
   { "id": 3246, "name": "Nuzleaf", "level": 38, "iv": 53.23 },
   { "id": 3247, "name": "Skiploom", "level": 37, "iv": 46.24 },
   { "id": 3248, "name": "Fennekin", "level": 14, "iv": 48.39 },
@@ -3259,6 +3421,7 @@
   { "id": 3263, "name": "Dreepy", "level": 33, "iv": 60.75 },
   { "id": 3264, "name": "Snivy", "level": 25, "iv": 42.47 },
   { "id": 3265, "name": "Natu", "level": 26, "iv": 46.77 },
+
   { "id": 3266, "name": "Marshtomp", "level": 19, "iv": 56.99 },
   { "id": 3267, "name": "Shellder", "level": 9, "iv": 45.7 },
   { "id": 3268, "name": "Axew", "level": 19, "iv": 53.76 },
@@ -3279,11 +3442,289 @@
   { "id": 3283, "name": "Nidoran♂️", "level": 22, "iv": 53.76 },
   { "id": 3284, "name": "Togepi", "level": 52, "iv": 45.7 },
   { "id": 3285, "name": "Durant", "level": 30, "iv": 37.1 },
+
   { "id": 3286, "name": "Snom", "level": 16, "iv": 61.29 },
   { "id": 3287, "name": "Skwovet", "level": 9, "iv": 46.24 },
   { "id": 3288, "name": "Phantump", "level": 24, "iv": 48.92 },
   { "id": 3289, "name": "Finneon", "level": 35, "iv": 53.76 },
   { "id": 3290, "name": "Amaura", "level": 14, "iv": 50.54 },
   { "id": 3291, "name": "Solosis", "level": 27, "iv": 61.83 },
-  { "id": 3292, "name": "Seismitoad", "level": 26, "iv": 47.31 }
+  { "id": 3292, "name": "Seismitoad", "level": 26, "iv": 47.31 },
+  { "id": 3293, "name": "Venipede", "level": 19, "iv": 72.58 },
+  { "id": 3294, "name": "Sentret", "level": 14, "iv": 41.94 },
+  { "id": 3295, "name": "Slakoth", "level": 37, "iv": 39.78 },
+  { "id": 3296, "name": "Abra", "level": 22, "iv": 60.75 },
+  { "id": 3297, "name": "Togetic", "level": 23, "iv": 60.22 },
+  { "id": 3298, "name": "Monferno", "level": 37, "iv": 59.14 },
+  { "id": 3299, "name": "Jynx", "level": 32, "iv": 44.62 },
+  { "id": 3300, "name": "Wooloo", "level": 19, "iv": 41.4 },
+  { "id": 3301, "name": "Ribombee", "level": 24, "iv": 60.75 },
+  { "id": 3302, "name": "Eevee", "level": 31, "iv": 41.4 },
+  { "id": 3303, "name": "Magnemite", "level": 33, "iv": 58.06 },
+  { "id": 3304, "name": "Grumpig", "level": 11, "iv": 39.78 },
+  { "id": 3305, "name": "Jigglypuff", "level": 26, "iv": 33.87 },
+
+  { "id": 3306, "name": "Swoobat", "level": 21, "iv": 31.72 },
+  { "id": 3307, "name": "Tyrogue", "level": 13, "iv": 17.74 },
+  { "id": 3308, "name": "Starly", "level": 20, "iv": 55.38 },
+  { "id": 3309, "name": "Timburr", "level": 15, "iv": 57.53 },
+  { "id": 3310, "name": "Flabébé", "level": 29, "iv": 73.66 },
+  { "id": 3311, "name": "Mantyke", "level": 33, "iv": 50 },
+  { "id": 3312, "name": "Slowpoke", "level": 11, "iv": 38.71 },
+  { "id": 3313, "name": "Duosion", "level": 11, "iv": 39.25 },
+  { "id": 3314, "name": "Samurott", "level": 21, "iv": 43.01 },
+  { "id": 3315, "name": "Duosion", "level": 45, "iv": 52.15 },
+  { "id": 3316, "name": "Yamper", "level": 24, "iv": 56.45 },
+  { "id": 3317, "name": "Scatterbug", "level": 12, "iv": 70.97 },
+  { "id": 3318, "name": "Magnemite", "level": 26, "iv": 38.17 },
+  { "id": 3319, "name": "Ducklett", "level": 20, "iv": 71.51 },
+  { "id": 3320, "name": "Togepi", "level": 26, "iv": 68.28 },
+  { "id": 3321, "name": "Lilligant", "level": 6, "iv": 60.22 },
+  { "id": 3322, "name": "Pineco", "level": 29, "iv": 66.67 },
+  { "id": 3323, "name": "Roggenrola", "level": 21, "iv": 59.14 },
+  { "id": 3324, "name": "Tangela", "level": 5, "iv": 43.01 },
+  { "id": 3325, "name": "Trubbish", "level": 29, "iv": 30.65 },
+
+  { "id": 3326, "name": "Vullaby", "level": 23, "iv": 63.98 },
+  { "id": 3327, "name": "Hawlucha", "level": 25, "iv": 73.66 },
+  { "id": 3328, "name": "Cascoon", "level": 9, "iv": 59.14 },
+  { "id": 3329, "name": "Ledyba", "level": 17, "iv": 48.92 },
+  { "id": 3330, "name": "Lotad", "level": 8, "iv": 36.02 },
+  { "id": 3331, "name": "Spheal", "level": 10, "iv": 56.99 },
+  { "id": 3332, "name": "Psyduck", "level": 24, "iv": 64.52 },
+  { "id": 3333, "name": "Inkay", "level": 22, "iv": 41.4 },
+  { "id": 3334, "name": "Tauros", "level": 28, "iv": 55.38 },
+  { "id": 3335, "name": "Cufant", "level": 14, "iv": 44.09 },
+  { "id": 3336, "name": "Budew", "level": 17, "iv": 50 },
+  { "id": 3337, "name": "Cyndaquil", "level": 24, "iv": 32.26 },
+  { "id": 3338, "name": "Indeedee", "level": 32, "iv": 40.86 },
+  { "id": 3339, "name": "Rhyhorn", "level": 20, "iv": 47.85 },
+  { "id": 3340, "name": "Nidorino", "level": 29, "iv": 59.14 },
+  { "id": 3341, "name": "Butterfree", "level": 42, "iv": 45.7 },
+  { "id": 3342, "name": "Gligar", "level": 24, "iv": 55.91 },
+  { "id": 3343, "name": "Pidove", "level": 19, "iv": 24.19 },
+  { "id": 3344, "name": "Gible", "level": 33, "iv": 54.84 },
+  { "id": 3345, "name": "Nosepass", "level": 18, "iv": 59.14 },
+
+  { "id": 3346, "name": "Milcery", "level": 17, "iv": 40.86 },
+  { "id": 3347, "name": "Vespiquen", "level": 30, "iv": 53.76 },
+  { "id": 3348, "name": "Wurmple", "level": 7, "iv": 37.63 },
+  { "id": 3349, "name": "Boldore", "level": 26, "iv": 51.61 },
+  { "id": 3350, "name": "Drakloak", "level": 7, "iv": 44.09 },
+  { "id": 3351, "name": "Silicobra", "level": 24, "iv": 42.47 },
+  { "id": 3352, "name": "Magneton", "level": 27, "iv": 44.62 },
+  { "id": 3353, "name": "Burmy", "level": 27, "iv": 70.43 },
+  { "id": 3354, "name": "Dratini", "level": 21, "iv": 64.52 },
+  { "id": 3355, "name": "Doduo", "level": 37, "iv": 59.68 },
+  { "id": 3356, "name": "Poliwhirl", "level": 29, "iv": 36.02 },
+  { "id": 3357, "name": "Wormadam", "level": 32, "iv": 48.39 },
+  { "id": 3358, "name": "Cutiefly", "level": 33, "iv": 49.46 },
+  { "id": 3359, "name": "Swinub", "level": 24, "iv": 70.43 },
+  { "id": 3360, "name": "Blipbug", "level": 32, "iv": 37.63 },
+  { "id": 3361, "name": "Yanmega", "level": 27, "iv": 31.72 },
+  { "id": 3362, "name": "Weedle", "level": 11, "iv": 41.94 },
+  { "id": 3363, "name": "Gurdurr", "level": 1, "iv": 75.27 },
+  { "id": 3364, "name": "Blipbug", "level": 22, "iv": 62.9 },
+  { "id": 3365, "name": "Vanillite", "level": 14, "iv": 44.62 },
+
+  { "id": 3366, "name": "Pangoro", "level": 41, "iv": 29.03 },
+  { "id": 3367, "name": "Goldeen", "level": 13, "iv": 44.62 },
+  { "id": 3368, "name": "Aron", "level": 32, "iv": 56.99 },
+  { "id": 3369, "name": "Nincada", "level": 15, "iv": 31.18 },
+  { "id": 3370, "name": "Mareep", "level": 25, "iv": 33.33 },
+  { "id": 3371, "name": "Butterfree", "level": 11, "iv": 52.15 },
+  { "id": 3372, "name": "Togetic", "level": 16, "iv": 53.23 },
+  { "id": 3373, "name": "Litleo", "level": 3, "iv": 60.22 },
+  { "id": 3374, "name": "Swinub", "level": 18, "iv": 44.09 },
+  { "id": 3375, "name": "Drifloon", "level": 11, "iv": 49.46 },
+  { "id": 3376, "name": "Geodude", "level": 6, "iv": 48.92 },
+  { "id": 3377, "name": "Dartrix", "level": 32, "iv": 46.77 },
+  { "id": 3378, "name": "Diglett", "level": 11, "iv": 43.55 },
+  { "id": 3379, "name": "Timburr", "level": 21, "iv": 50.54 },
+  { "id": 3380, "name": "Abra", "level": 21, "iv": 46.77 },
+  { "id": 3381, "name": "Cranidos", "level": 14, "iv": 54.3 },
+  { "id": 3382, "name": "Arbok", "level": 15, "iv": 51.61 },
+  { "id": 3383, "name": "Phantump", "level": 1, "iv": 48.92 },
+  { "id": 3384, "name": "Magnemite", "level": 16, "iv": 47.31 },
+  { "id": 3385, "name": "Luxray", "level": 26, "iv": 50 },
+
+  { "id": 3386, "name": "Zubat", "level": 16, "iv": 25.27 },
+  { "id": 3387, "name": "Abra", "level": 7, "iv": 49.46 },
+  { "id": 3388, "name": "Bellsprout", "level": 27, "iv": 67.2 },
+  { "id": 3389, "name": "Thwackey", "level": 12, "iv": 62.9 },
+  { "id": 3390, "name": "Aerodactyl", "level": 14, "iv": 53.76 },
+  { "id": 3391, "name": "Tynamo", "level": 48, "iv": 53.76 },
+  { "id": 3392, "name": "Mareep", "level": 10, "iv": 34.95 },
+  { "id": 3393, "name": "Porygon", "level": 15, "iv": 48.92 },
+  { "id": 3394, "name": "Magikarp", "level": 21, "iv": 31.18 },
+  { "id": 3395, "name": "Chandelure", "level": 7, "iv": 52.69 },
+  { "id": 3396, "name": "Sigilyph", "level": 25, "iv": 54.3 },
+  { "id": 3397, "name": "Seedot", "level": 15, "iv": 68.82 },
+  { "id": 3398, "name": "Ledyba", "level": 13, "iv": 48.92 },
+  { "id": 3399, "name": "Rhyhorn", "level": 33, "iv": 50 },
+  { "id": 3400, "name": "Tympole", "level": 7, "iv": 51.08 },
+  { "id": 3401, "name": "Frillish", "level": 28, "iv": 76.88 },
+  { "id": 3402, "name": "Phantump", "level": 23, "iv": 42.47 },
+  { "id": 3403, "name": "Jangmo-o", "level": 22, "iv": 68.28 },
+  { "id": 3404, "name": "Lotad", "level": 3, "iv": 54.3 },
+  { "id": 3405, "name": "Sewaddle", "level": 20, "iv": 75.81 },
+
+  { "id": 3406, "name": "Woobat", "level": 26, "iv": 47.31 },
+  { "id": 3407, "name": "Palossand", "level": 19, "iv": 79.03 },
+  { "id": 3408, "name": "Skiploom", "level": 35, "iv": 63.44 },
+  { "id": 3409, "name": "Sewaddle", "level": 29, "iv": 51.08 },
+  { "id": 3410, "name": "Pansage", "level": 28, "iv": 43.01 },
+  { "id": 3411, "name": "Starly", "level": 10, "iv": 58.6 },
+  { "id": 3412, "name": "Rockruff", "level": 35, "iv": 20.43 },
+  { "id": 3413, "name": "Flabébé", "level": 8, "iv": 33.33 },
+  { "id": 3414, "name": "Arrokuda", "level": 13, "iv": 59.14 },
+  { "id": 3415, "name": "Trapinch", "level": 16, "iv": 46.77 },
+  { "id": 3416, "name": "Phanpy", "level": 24, "iv": 59.14 },
+  { "id": 3417, "name": "Honedge", "level": 28, "iv": 36.02 },
+  { "id": 3418, "name": "Pidgey", "level": 25, "iv": 48.92 },
+  { "id": 3419, "name": "Panpour", "level": 27, "iv": 60.22 },
+  { "id": 3420, "name": "Fletchinder", "level": 17, "iv": 32.26 },
+  { "id": 3421, "name": "Jigglypuff", "level": 28, "iv": 54.3 },
+  { "id": 3422, "name": "Honedge", "level": 40, "iv": 46.24 },
+  { "id": 3423, "name": "Dottler", "level": 19, "iv": 64.52 },
+  { "id": 3424, "name": "Vikavolt", "level": 20, "iv": 54.3 },
+  { "id": 3425, "name": "Floette", "level": 12, "iv": 58.6 },
+
+  { "id": 3426, "name": "Nidorina", "level": 30, "iv": 36.56 },
+  { "id": 3427, "name": "Starly", "level": 11, "iv": 60.75 },
+  { "id": 3428, "name": "Duskull", "level": 19, "iv": 40.32 },
+  { "id": 3429, "name": "Duskull", "level": 27, "iv": 55.38 },
+  { "id": 3430, "name": "Drifloon", "level": 32, "iv": 39.78 },
+  { "id": 3431, "name": "Surskit", "level": 29, "iv": 32.26 },
+  { "id": 3432, "name": "Spheal", "level": 25, "iv": 66.67 },
+  { "id": 3433, "name": "Weedle", "level": 21, "iv": 47.85 },
+  { "id": 3434, "name": "Torterra", "level": 14, "iv": 53.23 },
+  { "id": 3435, "name": "Carbink", "level": 12, "iv": 62.9 },
+  { "id": 3436, "name": "Whismur", "level": 30, "iv": 50 },
+  { "id": 3437, "name": "Wurmple", "level": 21, "iv": 65.59 },
+  { "id": 3438, "name": "Piloswine", "level": 15, "iv": 17.2 },
+  { "id": 3439, "name": "Geodude", "level": 19, "iv": 37.1 },
+  { "id": 3440, "name": "Vullaby", "level": 1, "iv": 64.52 },
+  { "id": 3441, "name": "Flareon", "level": 13, "iv": 57.53 },
+  { "id": 3442, "name": "Kirlia", "level": 20, "iv": 47.31 },
+  { "id": 3443, "name": "Spheal", "level": 32, "iv": 65.59 },
+  { "id": 3444, "name": "Litwick", "level": 28, "iv": 59.14 },
+  { "id": 3445, "name": "Wurmple", "level": 28, "iv": 64.52 },
+
+  { "id": 3446, "name": "Honedge", "level": 13, "iv": 49.46 },
+  { "id": 3447, "name": "Carvanha", "level": 22, "iv": 58.6 },
+  { "id": 3448, "name": "Nidoran♀️", "level": 34, "iv": 66.13 },
+  { "id": 3449, "name": "Ralts", "level": 26, "iv": 38.71 },
+  { "id": 3450, "name": "Sewaddle", "level": 8, "iv": 48.92 },
+  { "id": 3451, "name": "Lillipup", "level": 16, "iv": 36.56 },
+  { "id": 3452, "name": "Deerling", "level": 2, "iv": 62.9 },
+  { "id": 3453, "name": "Glaceon", "level": 15, "iv": 62.9 },
+  { "id": 3454, "name": "Servine", "level": 25, "iv": 64.52 },
+  { "id": 3455, "name": "Mareanie", "level": 40, "iv": 30.65 },
+  { "id": 3456, "name": "Arctozolt", "level": 31, "iv": 43.55 },
+  { "id": 3457, "name": "Shuppet", "level": 12, "iv": 40.32 },
+  { "id": 3458, "name": "Sunflora", "level": 9, "iv": 54.84 },
+  { "id": 3459, "name": "Skrelp", "level": 32, "iv": 34.41 },
+  { "id": 3460, "name": "Klink", "level": 20, "iv": 67.2 },
+  { "id": 3461, "name": "Abomasnow", "level": 17, "iv": 38.71 },
+  { "id": 3462, "name": "Metapod", "level": 7, "iv": 35.48 },
+  { "id": 3463, "name": "Pidgey", "level": 2, "iv": 56.99 },
+  { "id": 3464, "name": "Vullaby", "level": 3, "iv": 33.87 },
+  { "id": 3465, "name": "Skwovet", "level": 27, "iv": 52.15 },
+
+  { "id": 3466, "name": "Tynamo", "level": 11, "iv": 52.69 },
+  { "id": 3467, "name": "Mareep", "level": 26, "iv": 45.16 },
+  { "id": 3468, "name": "Gothita", "level": 13, "iv": 39.78 },
+  { "id": 3469, "name": "Goldeen", "level": 9, "iv": 46.24 },
+  { "id": 3470, "name": "Purrloin", "level": 25, "iv": 27.96 },
+  { "id": 3471, "name": "Whismur", "level": 9, "iv": 54.84 },
+  { "id": 3472, "name": "Slakoth", "level": 11, "iv": 40.32 },
+  { "id": 3473, "name": "Dewott", "level": 17, "iv": 27.96 },
+  { "id": 3474, "name": "Timburr", "level": 40, "iv": 70.43 },
+  { "id": 3475, "name": "Hatenna", "level": 9, "iv": 26.88 },
+  { "id": 3476, "name": "Chimchar", "level": 1, "iv": 63.44 },
+  { "id": 3477, "name": "Snorunt", "level": 13, "iv": 30.11 },
+  { "id": 3478, "name": "Natu", "level": 30, "iv": 30.65 },
+  { "id": 3479, "name": "Duosion", "level": 12, "iv": 56.99 },
+  { "id": 3480, "name": "Shiinotic", "level": 30, "iv": 55.91 },
+  { "id": 3481, "name": "Shuckle", "level": 17, "iv": 48.92 },
+  { "id": 3482, "name": "Araquanid", "level": 23, "iv": 38.71 },
+  { "id": 3483, "name": "Onix", "level": 26, "iv": 27.96 },
+  { "id": 3484, "name": "Cubchoo", "level": 22, "iv": 25.27 },
+  { "id": 3485, "name": "Trapinch", "level": 23, "iv": 53.76 },
+
+  { "id": 3486, "name": "Houndour", "level": 3, "iv": 51.61 },
+  { "id": 3487, "name": "Sandile", "level": 21, "iv": 40.86 },
+  { "id": 3488, "name": "Mareep", "level": 28, "iv": 66.67 },
+  { "id": 3489, "name": "Sandile", "level": 8, "iv": 54.3 },
+  { "id": 3490, "name": "Gothita", "level": 13, "iv": 50.54 },
+  { "id": 3491, "name": "Magmar", "level": 29, "iv": 50 },
+  { "id": 3492, "name": "Rhyhorn", "level": 24, "iv": 59.14 },
+  { "id": 3493, "name": "Sandile", "level": 19, "iv": 36.56 },
+  { "id": 3494, "name": "Axew", "level": 20, "iv": 54.84 },
+  { "id": 3495, "name": "Oddish", "level": 37, "iv": 74.19 },
+  { "id": 3496, "name": "Nidoran♂️", "level": 21, "iv": 37.1 },
+  { "id": 3497, "name": "Venipede", "level": 9, "iv": 28.49 },
+  { "id": 3498, "name": "Gurdurr", "level": 24, "iv": 37.63 },
+  { "id": 3499, "name": "Porygon", "level": 48, "iv": 61.29 },
+  { "id": 3500, "name": "Pidove", "level": 25, "iv": 31.18 },
+  { "id": 3501, "name": "Machoke", "level": 11, "iv": 72.04 },
+  { "id": 3502, "name": "Luxio", "level": 35, "iv": 34.95 },
+  { "id": 3503, "name": "Poliwag", "level": 1, "iv": 65.59 },
+  { "id": 3504, "name": "Spinda", "level": 27, "iv": 32.26 },
+  { "id": 3505, "name": "Litwick", "level": 7, "iv": 47.31 },
+
+  { "id": 3506, "name": "Ralts", "level": 39, "iv": 28.49 },
+  { "id": 3507, "name": "Impidimp", "level": 14, "iv": 67.2 },
+  { "id": 3508, "name": "Phanpy", "level": 4, "iv": 45.16 },
+  { "id": 3509, "name": "Baltoy", "level": 12, "iv": 59.14 },
+  { "id": 3510, "name": "Victreebel", "level": 17, "iv": 25.27 },
+  { "id": 3511, "name": "Nidoran♂️", "level": 1, "iv": 44.09 },
+  { "id": 3512, "name": "Zubat", "level": 15, "iv": 54.84 },
+  { "id": 3513, "name": "Floette", "level": 17, "iv": 51.61 },
+  { "id": 3514, "name": "Machop", "level": 17, "iv": 48.92 },
+  { "id": 3515, "name": "Grubbin", "level": 16, "iv": 25.81 },
+  { "id": 3516, "name": "Unown", "level": 34, "iv": 56.45 },
+  { "id": 3517, "name": "Gible", "level": 18, "iv": 46.77 },
+  { "id": 3518, "name": "Flabébé", "level": 19, "iv": 43.55 },
+  { "id": 3519, "name": "Wurmple", "level": 10, "iv": 38.71 },
+  { "id": 3520, "name": "Litwick", "level": 19, "iv": 62.37 },
+  { "id": 3521, "name": "Lickitung", "level": 30, "iv": 69.89 },
+  { "id": 3522, "name": "Gothorita", "level": 7, "iv": 43.01 },
+  { "id": 3523, "name": "Grookey", "level": 12, "iv": 68.28 },
+  { "id": 3524, "name": "Zubat", "level": 33, "iv": 51.08 },
+  { "id": 3525, "name": "Chewtle", "level": 34, "iv": 34.41 },
+
+  { "id": 3526, "name": "Kadabra", "level": 20, "iv": 39.25 },
+  { "id": 3527, "name": "Jangmo-o", "level": 37, "iv": 49.46 },
+  { "id": 3528, "name": "Crabrawler", "level": 44, "iv": 20.97 },
+  { "id": 3529, "name": "Oddish", "level": 20, "iv": 40.32 },
+  { "id": 3530, "name": "Serperior", "level": 3, "iv": 36.56 },
+  { "id": 3531, "name": "Quagsire", "level": 19, "iv": 51.08 },
+  { "id": 3532, "name": "Hoppip", "level": 30, "iv": 47.85 },
+  { "id": 3533, "name": "Fennekin", "level": 17, "iv": 63.98 },
+  { "id": 3534, "name": "Geodude", "level": 5, "iv": 46.77 },
+  { "id": 3535, "name": "Wurmple", "level": 16, "iv": 50.54 },
+  { "id": 3536, "name": "Bonsly", "level": 17, "iv": 47.31 },
+  { "id": 3537, "name": "Nidoran♂️", "level": 14, "iv": 34.95 },
+  { "id": 3538, "name": "Kakuna", "level": 11, "iv": 39.25 },
+  { "id": 3539, "name": "Nickit", "level": 30, "iv": 51.61 },
+  { "id": 3540, "name": "Mienfoo", "level": 15, "iv": 43.55 },
+  { "id": 3541, "name": "Dwebble", "level": 28, "iv": 35.48 },
+  { "id": 3542, "name": "Pidgey", "level": 24, "iv": 39.25 },
+  { "id": 3543, "name": "Cleffa", "level": 23, "iv": 25.81 },
+  { "id": 3544, "name": "Drakloak", "level": 22, "iv": 59.68 },
+  { "id": 3545, "name": "Skwovet", "level": 7, "iv": 47.85 },
+
+  { "id": 3546, "name": "Zubat", "level": 28, "iv": 53.76 },
+  { "id": 3547, "name": "Cubone", "level": 17, "iv": 65.59 },
+  { "id": 3548, "name": "Sinistea", "level": 22, "iv": 56.45 },
+  { "id": 3549, "name": "Bellsprout", "level": 18, "iv": 44.62 },
+  { "id": 3550, "name": "Lileep", "level": 26, "iv": 45.16 },
+  { "id": 3551, "name": "Tynamo", "level": 31, "iv": 30.65 },
+  { "id": 3552, "name": "Binacle", "level": 20, "iv": 52.69 },
+  { "id": 3553, "name": "Roselia", "level": 21, "iv": 48.92 },
+  { "id": 3554, "name": "Spheal", "level": 17, "iv": 46.24 },
+  { "id": 3555, "name": "Starly", "level": 1, "iv": 44.09 },
+  { "id": 3556, "name": "Dratini", "level": 18, "iv": 27.96 }
 ]

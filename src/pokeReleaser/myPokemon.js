@@ -3,6 +3,18 @@ import fs from "fs";
 const MY_POKEMON_PATH = "./database/myPokemon.json";
 const RELEASE_WHITELIST = "./database/releaseWhitelist.json";
 
+const _readMyPokemon = () => {
+  return JSON.parse(fs.readFileSync(MY_POKEMON_PATH, "utf-8"));
+};
+
+const writeMyPokemon = (myPokemon) => {
+  fs.writeFileSync(MY_POKEMON_PATH, JSON.stringify(myPokemon));
+};
+
+const _readReleaseWhitelist = () => {
+  return JSON.parse(fs.readFileSync(RELEASE_WHITELIST, "utf-8"));
+};
+
 const _getUniquePokemonNames = () => {
   const pokemonNames = Object.values(_readMyPokemon()).map(
     (pokemon) => pokemon.name
@@ -17,25 +29,11 @@ const _getReleaseWhitelistedPokemonNames = () => {
   );
 };
 
-const _readReleaseWhitelist = () => {
-  return JSON.parse(fs.readFileSync(RELEASE_WHITELIST, "utf-8"));
-};
-
-const _readMyPokemon = () => {
-  return JSON.parse(fs.readFileSync(MY_POKEMON_PATH, "utf-8"));
-};
-
-const writeMyPokemon = (myPokemon) => {
-  fs.writeFileSync(MY_POKEMON_PATH, JSON.stringify(myPokemon));
-};
-
 const getPokemonToRelease = () => {
-  const myPokemon = _readMyPokemon();
-
   return _getReleaseWhitelistedPokemonNames().reduce(
     (pokemonToRelease, uniquePokemonName) => {
       // collect all pokémon duplicates with the same name
-      const pokemonDuplicates = myPokemon.filter(
+      const pokemonDuplicates = _readMyPokemon().filter(
         ({ name }) => uniquePokemonName === name
       );
 

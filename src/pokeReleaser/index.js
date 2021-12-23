@@ -15,11 +15,15 @@ pokeCatcher.on("ready", async () => {
 pokeCatcher.on("message", async (message) => {
   // is a Pokétwo message
   if (message.author.username === "Pokétwo") {
-    // if (message.embeds[0]?.title === "Your pokémon")
-    //   handler.onViewingPokemon(message.embeds[0]);
-    // else if (message.content === "No pokémon found.")
-    //   handler.onStoppedViewingPokemon();
-    console.log(message.embeds[0]?.fields)
+    if (message.embeds[0]?.title === "Your pokémon")
+      handler.onViewingPokemon(message.embeds[0]);
+    else if (message.content === "No pokémon found.")
+      handler.onStoppedViewingPokemon();
+    else if (
+      message.content.includes("Are you sure you want to release") ||
+      message.content.includes("Couldn't find/release")
+    )
+      handler.onReleasingPokemon();
   }
 
   // is a user message
