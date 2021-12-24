@@ -16,14 +16,13 @@ pokeCatcher.on("message", async (message) => {
   // is a Pokétwo message
   if (message.author.username === "Pokétwo") {
     if (message.embeds[0]?.title === "Your pokémon")
-      handler.onViewingPokemon(message.embeds[0]);
-    else if (message.content === "No pokémon found.")
-      handler.onStoppedViewingPokemon();
-    else if (
-      message.content.includes("Are you sure you want to release") ||
-      message.content.includes("Couldn't find/release")
-    )
-      handler.onReleasingPokemon();
+      return handler.onViewingPokemon(message.embeds[0]);
+    if (message.content === "No pokémon found.")
+      return handler.onStoppedViewingPokemon();
+    if (message.content.includes("Are you sure you want to release"))
+      return handler.onConfirmRelease();
+    if (message.content.includes("You released")) 
+      return handler.onRelease();
   }
 
   // is a user message

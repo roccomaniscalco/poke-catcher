@@ -1,15 +1,17 @@
-import delay from "../util/delay.js";
 import log from "../util/log.js";
 import myPokemon from "./myPokemon.js";
 import user from "./userBot.js";
 
-const onReady = () => {
-  log.success("PokéReleaser Active");
-};
-
 const state = {
   myPokemon: [],
   idsToRelease: [],
+};
+
+const onReady = () => {
+  log.success("PokéReleaser Active");
+
+  const pokemonToRelease = myPokemon.getPokemonToRelease();
+  state.idsToRelease = pokemonToRelease.map(({ id }) => id);
 };
 
 const _parsePokemonString = (pokemon) => {
@@ -20,14 +22,6 @@ const _parsePokemonString = (pokemon) => {
   return { id, name, level, iv };
 };
 
-const _parsePokemonStrings = (pokemonStrings) => {
-  return pokemonStrings.reduce((pokemons, pokemonString) => {
-    const pokemon = _parsePokemonString(pokemonString);
-    pokemons.push(pokemon);
-    return pokemons;
-  }, []);
-};
-
 const getNextPageNumber = (pageFooter) => {
   const entryRangeLowerBound = pageFooter.text.match(/(\d+)(?=–)/)[1];
   return Math.ceil(entryRangeLowerBound / 20) + 1;
@@ -35,7 +29,9 @@ const getNextPageNumber = (pageFooter) => {
 
 const onViewingPokemon = (messageEmbed) => {
   const pokemonStrings = messageEmbed.description.split("\n");
-  state.myPokemon.push(_parsePokemonStrings(pokemonStrings));
+  pokemonStrings.forEach((pokemonString) => {
+    state.myPokemon.push(_parsePokemonString(pokemonString));
+  });
   user.viewPokemon(getNextPageNumber(messageEmbed.footer));
 };
 
@@ -44,19 +40,24 @@ const onStoppedViewingPokemon = () => {
 };
 
 const onClean = () => {
-  const pokemonToRelease = myPokemon.getPokemonToRelease()
-  state.idsToRelease = pokemonToRelease.map(({ id }) => id);
-
-  user.releasePokemon(state.idsToRelease.splice(0, 30))
+  onRelease();
 };
 
-const onReleasingPokemon = async () => {
+const onConfirmRelease = () => {
   user.confirmRelease();
-  await delay(5000)
+};
 
+const onRelease = async () => {
   if (state.idsToRelease.length === 0) return;
   user.releasePokemon(state.idsToRelease.splice(0, 30));
 };
 
-const handler = { onReady, onViewingPokemon, onStoppedViewingPokemon, onClean, onReleasingPokemon };
+const handler = {
+  onReady,
+  onViewingPokemon,
+  onStoppedViewingPokemon,
+  onClean,
+  onConfirmRelease,
+  onRelease,
+};
 export default handler;

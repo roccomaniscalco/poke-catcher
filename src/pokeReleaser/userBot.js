@@ -9,15 +9,15 @@ const viewPokemon = debounce((pageNumber) => {
 const releasePokemon = debounce((pokemonIdsToRelease) => {
   robot.typeString(`p!release ${pokemonIdsToRelease.join(" ")}`);
   robot.keyTap("enter");
-}, 3000);
+}, 1000);
 
-const confirmRelease = () => {
+const confirmRelease = debounce(() => {
   robot.keyTap("up");
   for (let i = 0; i < 6; i++) {
     robot.keyTap("tab");
   }
   robot.keyTap("enter");
-};
+}, 5000);
 
 const user = { viewPokemon, releasePokemon, confirmRelease };
 export default user;
